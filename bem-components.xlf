@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" version="1.2">
+  <file original="README.ru.md.html" source-language="ru" target-language="en" datatype="html" build-num="432">
+    <body>
+      <trans-unit id="tu1" resname="bem-components-library-id" restype="x-h1" xml:space="preserve">
+<source xml:lang="ru">BEM Components Library</source>
+</trans-unit>
+      <trans-unit id="tu3" restype="x-alt" xml:space="preserve">
+<source xml:lang="ru">GitHub Release</source>
+</trans-unit>
+      <trans-unit id="tu4" restype="x-alt" xml:space="preserve">
+<source xml:lang="ru">Build Status</source>
+</trans-unit>
+      <trans-unit id="tu5" restype="x-alt" xml:space="preserve">
+<source xml:lang="ru">Coverage Status</source>
+</trans-unit>
+      <trans-unit id="tu6" restype="x-alt" xml:space="preserve">
+<source xml:lang="ru">devDependency Status</source>
+</trans-unit>
+      <trans-unit id="tu2" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://github.com/bem/bem-components/releases" data-url="https://github.com/bem/bem-components/releases"&gt;</bpt><ph id="2">&lt;img src="https://img.shields.io/github/release/bem/bem-components.svg?style=flat" [#$tu3] /&gt;</ph><ept id="1">&lt;/a&gt;</ept><ph id="3">&lt;br /&gt;</ph><bpt id="4">&lt;a href="https://travis-ci.org/bem/bem-components" data-url="https://travis-ci.org/bem/bem-components"&gt;</bpt><ph id="5">&lt;img src="https://img.shields.io/travis/bem/bem-components/v2.svg?style=flat" [#$tu4] /&gt;</ph><ept id="4">&lt;/a&gt;</ept><ph id="6">&lt;br /&gt;</ph><bpt id="7">&lt;a href="https://coveralls.io/r/bem/bem-components?branch=v2" data-url="https://coveralls.io/r/bem/bem-components?branch=v2"&gt;</bpt><ph id="8">&lt;img src="https://img.shields.io/coveralls/bem/bem-components/v2.svg?style=flat" [#$tu5] /&gt;</ph><ept id="7">&lt;/a&gt;</ept><ph id="9">&lt;br /&gt;</ph><bpt id="10">&lt;a href="https://david-dm.org/bem/bem-components#info=devDependencies" data-url="https://david-dm.org/bem/bem-components#info=devDependencies"&gt;</bpt><ph id="11">&lt;img src="https://img.shields.io/david/dev/bem/bem-components.svg?style=flat" [#$tu6] /&gt;</ph><ept id="10">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu7" resname="--id" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Что это?</source>
+</trans-unit>
+      <trans-unit id="tu8" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Библиотека с открытым кодом, которая предоставляет набор готовых визуальных компонентов (блоков) для создания веб-интерфейсов.</source>
+</trans-unit>
+      <trans-unit id="tu9" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Библиотека предоставляет темы оформления. В данной версии представлена тема islands, реализующая новый дизайн Яндекса. Предусмотрена одновременная поддержка нескольких тем и возможность создания новых.</source>
+</trans-unit>
+      <trans-unit id="tu10" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Содержание</source>
+</trans-unit>
+      <trans-unit id="tu11" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#levels"&gt;</bpt>Уровни<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu12" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#blocks"&gt;</bpt>Блоки<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu13" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#supported-browsers"&gt;</bpt>Поддерживаемые браузеры<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu14" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#techs"&gt;</bpt>Технологии<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu15" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#tools"&gt;</bpt>Инструменты<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu16" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#usage"&gt;</bpt>Использование<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu17" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#supply"&gt;</bpt>Варианты поставки библиотеки<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu18" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#development"&gt;</bpt>Разработка<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu19" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#maintain"&gt;</bpt>Команда основной разработки<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu20" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#workflow"&gt;</bpt>Рабочий процесс<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu21" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Дополнительная информация<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu22" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="/CHANGELOG.ru.md"&gt;</bpt>История изменений<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu23" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="/MIGRATION.ru.md"&gt;</bpt>Миграция на последующие версии<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu24" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="levels"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu25" resname="--id" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Уровни переопределения</source>
+</trans-unit>
+      <trans-unit id="tu26" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>common.blocks<ept id="1">&lt;/code&gt;</ept> — поддержка всех устройств и браузеров.</source>
+</trans-unit>
+      <trans-unit id="tu27" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>desktop.blocks<ept id="1">&lt;/code&gt;</ept> — поддержка всех десктопных браузеров.</source>
+</trans-unit>
+      <trans-unit id="tu28" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>touch.blocks<ept id="1">&lt;/code&gt;</ept> — реализация специфических особенностей для touch-платформ.</source>
+</trans-unit>
+      <trans-unit id="tu29" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>touch-phone.blocks<ept id="1">&lt;/code&gt;</ept> — реализация специфических особенностей для смартфонов.</source>
+</trans-unit>
+      <trans-unit id="tu30" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>touch-pad.blocks<ept id="1">&lt;/code&gt;</ept> — реализация специфических особенностей для планшетов.</source>
+</trans-unit>
+      <trans-unit id="tu31" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>design/&lt;common|desktop|touch|touch-phone|touch-pad&gt;.blocks<ept id="1">&lt;/code&gt;</ept> — реализация различных дизайнов (тем).</source>
+</trans-unit>
+      <trans-unit id="tu32" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="blocks"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu33" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Блоки</source>
+</trans-unit>
+      <trans-unit id="tu34" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/attach/attach.ru.md"&gt;</bpt>attach<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu35" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/button/button.ru.md"&gt;</bpt>button<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu36" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/checkbox/checkbox.ru.md"&gt;</bpt>checkbox<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu37" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/checkbox-group/checkbox-group.ru.md"&gt;</bpt>checkbox-group<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu38" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/control/control.ru.md"&gt;</bpt>control<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu39" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/control-group/control-group.ru.md"&gt;</bpt>control-group<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu40" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/dropdown/dropdown.ru.md"&gt;</bpt>dropdown<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu41" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/icon/icon.ru.md"&gt;</bpt>icon<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu42" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/image/image.ru.md"&gt;</bpt>image<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu43" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/input/input.ru.md"&gt;</bpt>input<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu44" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/link/link.ru.md"&gt;</bpt>link<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu45" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/menu/menu.ru.md"&gt;</bpt>menu<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu46" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/menu-item/menu-item.ru.md"&gt;</bpt>menu-item<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu47" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/modal/modal.ru.md"&gt;</bpt>modal<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu48" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/popup/popup.ru.md"&gt;</bpt>popup<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu49" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/progressbar/progressbar.ru.md"&gt;</bpt>progressbar<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu50" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/radio/radio.ru.md"&gt;</bpt>radio<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu51" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/radio-group/radio-group.ru.md"&gt;</bpt>radio-group<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu52" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/select/select.ru.md"&gt;</bpt>select<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu53" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/spin/spin.ru.md"&gt;</bpt>spin<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu54" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/textarea/textarea.ru.md"&gt;</bpt>textarea<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu55" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="common.blocks/z-index-group/z-index-group.ru.md"&gt;</bpt>z-index-group<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu56" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="supported-browsers"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu57" resname="--id" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Поддерживаемые браузеры</source>
+</trans-unit>
+      <trans-unit id="tu58" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Desktop<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu59" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Firefox <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu60" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Chrome <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu61" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Safari <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu62" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Yandex <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu63" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Opera 12.6+</source>
+</trans-unit>
+      <trans-unit id="tu64" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Internet Explorer 9+</source>
+</trans-unit>
+      <trans-unit id="tu65" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"/>
+</trans-unit>
+      <trans-unit id="tu66" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="#ie8"&gt;</bpt>Частичная поддержка<ept id="1">&lt;/a&gt;</ept> Internet Explorer 8</source>
+</trans-unit>
+      <trans-unit id="tu67" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Touch<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu68" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Android 4+</source>
+</trans-unit>
+      <trans-unit id="tu69" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">iOS 5+</source>
+</trans-unit>
+      <trans-unit id="tu70" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"/>
+</trans-unit>
+      <trans-unit id="tu71" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Internet Explorer 10+</source>
+</trans-unit>
+      <trans-unit id="tu72" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="ie8"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu73" resname="-internet-explorer-8-id" restype="x-h3" xml:space="preserve">
+<source xml:lang="ru">Поддержка Internet Explorer 8</source>
+</trans-unit>
+      <trans-unit id="tu74" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Для поддержки Internet Explorer 8 подключите на страницу:</source>
+</trans-unit>
+      <trans-unit id="tu75" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://www.npmjs.com/package/es5-shim" data-url="https://www.npmjs.com/package/es5-shim"&gt;</bpt>es5-shim<ept id="1">&lt;/a&gt;</ept>;</source>
+</trans-unit>
+      <trans-unit id="tu76" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">файлы стилей с расширением <bpt id="1">&lt;code&gt;</bpt>*.ie.styl<ept id="1">&lt;/code&gt;</ept>. Для этого укажите их в сборке (<bpt id="2">&lt;a href="https://github.com/bem/bem-components/blob/1f218c8ba10183fda21660e28cfbb280cd8cde54/.enb/make.js#L174" data-url="https://github.com/bem/bem-components/blob/1f218c8ba10183fda21660e28cfbb280cd8cde54/.enb/make.js#L174"&gt;</bpt>пример<ept id="2">&lt;/a&gt;</ept>) и добавьте условные комментарии в блоке <bpt id="3">&lt;code&gt;</bpt>page<ept id="3">&lt;/code&gt;</ept> (<bpt id="4">&lt;a href="https://gist.github.com/innabelaya/904ab01666fd1a19d312" data-url="https://gist.github.com/innabelaya/904ab01666fd1a19d312"&gt;</bpt>пример<ept id="4">&lt;/a&gt;</ept>). Подключить стили для Internet Explorer 8 можно также на уровне шаблонов.</source>
+</trans-unit>
+      <trans-unit id="tu77" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="techs"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu78" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Технологии</source>
+</trans-unit>
+      <trans-unit id="tu79" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/modules/" data-url="https://ru.bem.info/tools/bem/modules/"&gt;</bpt>YModules<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu80" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://ru.bem.info/technology/i-bem/current/i-bem-js/" data-url="https://ru.bem.info/technology/i-bem/current/i-bem-js/"&gt;</bpt>i-bem.js<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu81" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://ru.bem.info/technology/bemhtml/current/reference/" data-url="https://ru.bem.info/technology/bemhtml/current/reference/"&gt;</bpt>BEMHTML<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu82" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://ru.bem.info/technology/bh/current/about/" data-url="https://ru.bem.info/technology/bh/current/about/"&gt;</bpt>BH<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu83" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://ru.bem.info/technology/deps/about/" data-url="https://ru.bem.info/technology/deps/about/"&gt;</bpt>DEPS<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu84" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://learnboost.github.io/stylus/" data-url="https://learnboost.github.io/stylus/"&gt;</bpt>Stylus<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu85" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="tools"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu86" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Инструменты</source>
+</trans-unit>
+      <trans-unit id="tu87" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Сборщики<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu88" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" data-url="https://ru.bem.info/tools/bem/bem-tools/"&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu89" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="http://enb-make.info/" data-url="http://enb-make.info/"&gt;</bpt>ENB<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu90" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/borschik/" data-url="https://ru.bem.info/tools/optimizers/borschik/"&gt;</bpt>borschik<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu91" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Оптимизаторы<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu92" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/svgo/svgo/" data-url="https://ru.bem.info/tools/optimizers/svgo/svgo/"&gt;</bpt>SVGO<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu93" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="http://www.cleancss.com/about.php" data-url="http://www.cleancss.com/about.php"&gt;</bpt>CleanCSS<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu94" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="http://imageoptim.com/" data-url="http://imageoptim.com/"&gt;</bpt>ImageOptim<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu95" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Проверка кода<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu96" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="http://www.jshint.com/" data-url="http://www.jshint.com/"&gt;</bpt>jshint<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu97" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://github.com/jscs-dev/node-jscs" data-url="https://github.com/jscs-dev/node-jscs"&gt;</bpt>jscs<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu98" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Прочее<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu99" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://github.com/ai/autoprefixer/" data-url="https://github.com/ai/autoprefixer/"&gt;</bpt>Autoprefixer<ept id="1">&lt;/a&gt;</ept> — применяется во время сборки для генерации вендорных префиксов для поддерживаемых браузеров на основании конфигурации.</source>
+</trans-unit>
+      <trans-unit id="tu100" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="usage"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu101" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Использование</source>
+</trans-unit>
+      <trans-unit id="tu102" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Библиотека в проект подключается с помощью <bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" data-url="https://ru.bem.info/tools/bem/bem-tools/"&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept> или <bpt id="2">&lt;a href="http://enb-make.info/" data-url="http://enb-make.info/"&gt;</bpt>ENB<ept id="2">&lt;/a&gt;</ept>. Укажите название и версию библиотеки в конфигурационном файле выбранного вами сборщика.</source>
+</trans-unit>
+      <trans-unit id="tu103" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">При разработке проекта на основе <bpt id="1">&lt;a href="https://ru.bem.info/tutorials/project-stub/" data-url="https://ru.bem.info/tutorials/project-stub/"&gt;</bpt>project-stub<ept id="1">&lt;/a&gt;</ept> библиотека подключена по умолчанию.</source>
+</trans-unit>
+      <trans-unit id="tu104" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="supply"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu105" resname="---id" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Варианты поставки библиотеки</source>
+</trans-unit>
+      <trans-unit id="tu106" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Source<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu107" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Для технически идентичных сервисов и проектов, которые используют препроцессор и шаблонизатор, указанные в разделе <bpt id="1">&lt;a href="#tools"&gt;</bpt>Инструменты<ept id="1">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu108" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Compiled<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu109" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Для сервисов и проектов, которые не используют препроцессор или используют отличный от указанного в разделе <bpt id="1">&lt;a href="#tools"&gt;</bpt>Инструменты<ept id="1">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu110" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Library<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu111" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Для возможности подключения библиотеки ссылками на страницу, по аналогии с jQuery или Bootstrap.</source>
+</trans-unit>
+      <trans-unit id="tu112" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Для выбора этого варианта поставки необходимо выполнить <bpt id="1">&lt;code&gt;</bpt>npm run dist<ept id="1">&lt;/code&gt;</ept> в корне библиотеки после установки <bpt id="2">&lt;code&gt;</bpt>npm<ept id="2">&lt;/code&gt;</ept>-зависимостей. В результате бандлы сформируются в папке <bpt id="3">&lt;code&gt;</bpt>dist<ept id="3">&lt;/code&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu113" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="development"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu114" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Разработка</source>
+</trans-unit>
+      <trans-unit id="tu115" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#working-copy"&gt;</bpt>Рабочая копия<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu116" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#how-to-contribute"&gt;</bpt>Внесение изменений<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu117" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#modular-tests"&gt;</bpt>Тестирование<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu118" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#unit-tests"&gt;</bpt>Юнит-тесты на JavaScript<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu119" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#regression-tests"&gt;</bpt>Регрессионное тестирование верстки<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu120" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" href="#template-tests"&gt;</bpt>Тесты на шаблоны<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu121" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="working-copy"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu122" resname="--id" restype="x-h3" xml:space="preserve">
+<source xml:lang="ru">Рабочая копия</source>
+</trans-unit>
+      <trans-unit id="tu123" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Получение исходников:</source>
+</trans-unit>
+      <trans-unit id="tu124" restype="x-pre" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>$ git clone git://github.com/bem/bem-components.git
+$ cd bem-components<ept id="1">&lt;/code&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu125" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Установка зависимостей (инструментов):</source>
+</trans-unit>
+      <trans-unit id="tu126" restype="x-pre" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>$ npm install<ept id="1">&lt;/code&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu127" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Для последующего запуска локально установленных инструментов потребуется <bpt id="1">&lt;code&gt;</bpt>export PATH=./node_modules/.bin:$PATH<ept id="1">&lt;/code&gt;</ept> или любой альтернативный способ.</source>
+</trans-unit>
+      <trans-unit id="tu128" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Установка зависимых библиотек:</source>
+</trans-unit>
+      <trans-unit id="tu129" restype="x-pre" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>$ bower install<ept id="1">&lt;/code&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu130" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Сборка примеров и тестов:</source>
+</trans-unit>
+      <trans-unit id="tu131" restype="x-pre" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>$ npm run build-all<ept id="1">&lt;/code&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu132" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Запуск сервера для разработки:</source>
+</trans-unit>
+      <trans-unit id="tu133" restype="x-pre" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>$ npm start
+$ open http://localhost:8080/<ept id="1">&lt;/code&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu134" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>NB<ept id="1">&lt;/strong&gt;</ept> Точечная сборка отдельных блоков описана в разделе <bpt id="2">&lt;a href="#template-tests"&gt;</bpt>Тесты на шаблоны<ept id="2">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu135" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Проверка кода:</source>
+</trans-unit>
+      <trans-unit id="tu136" restype="x-pre" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>$ npm run lint<ept id="1">&lt;/code&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu137" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="how-to-contribute"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu138" resname="--id" restype="x-h3" xml:space="preserve">
+<source xml:lang="ru">Внесение изменений</source>
+</trans-unit>
+      <trans-unit id="tu139" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://github.com/bem/bem-components/issues/new" data-url="https://github.com/bem/bem-components/issues/new"&gt;</bpt>Создать issue<ept id="1">&lt;/a&gt;</ept> с описанием сути изменений.</source>
+</trans-unit>
+      <trans-unit id="tu140" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Определить версию библиотеки для внесения изменений.</source>
+</trans-unit>
+      <trans-unit id="tu141" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Создать отдельную ветку с указанием номера issue и версии (<bpt id="1">&lt;code&gt;</bpt>issues/&lt;номер issue&gt;@v&lt;номер версии&gt;<ept id="1">&lt;/code&gt;</ept>) на основе ветки версии.<ph id="2">&lt;br /&gt;</ph>Например, для issue с номером 42 и версией 2: <bpt id="3">&lt;code&gt;</bpt>git checkout -b issues/42@v2<ept id="3">&lt;/code&gt;</ept>. Если изменения вносятся в несколько версий, то для каждой версии создается отдельная ветка.</source>
+</trans-unit>
+      <trans-unit id="tu142" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Внести изменения. Локально проверить результаты изменений на наличие ошибок можно, запустив <bpt id="1">&lt;code&gt;</bpt>npm test<ept id="1">&lt;/code&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu143" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Сделать коммит и отправить изменения в удаленный репозиторий. При необходимости, сделать <bpt id="1">&lt;code&gt;</bpt>rebase<ept id="1">&lt;/code&gt;</ept> от базовой ветки версии.</source>
+</trans-unit>
+      <trans-unit id="tu144" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Создать pull request на основе созданной ветки. В случае изменений нескольких версий, создать pull request для каждой версии.</source>
+</trans-unit>
+      <trans-unit id="tu145" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Связать pull request и issue (например, c помощью <bpt id="1">&lt;a href="https://github.com/blog/1506-closing-issues-via-pull-requests" data-url="https://github.com/blog/1506-closing-issues-via-pull-requests"&gt;</bpt>комментария<ept id="1">&lt;/a&gt;</ept>).</source>
+</trans-unit>
+      <trans-unit id="tu146" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Ждать принятия pull request и закрытия issue.</source>
+</trans-unit>
+      <trans-unit id="tu147" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="modular-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu148" restype="x-h3" xml:space="preserve">
+<source xml:lang="ru">Тестирование</source>
+</trans-unit>
+      <trans-unit id="tu149" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="unit-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu150" resname="---javascript-id" restype="x-h4" xml:space="preserve">
+<source xml:lang="ru">Юнит-тесты на JavaScript</source>
+</trans-unit>
+      <trans-unit id="tu151" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Команда <bpt id="1">&lt;code&gt;</bpt>npm run test-specs<ept id="1">&lt;/code&gt;</ept> запускает юнит-тесты на JS.</source>
+</trans-unit>
+      <trans-unit id="tu152" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Для запуска точечной сборки используйте команду <bpt id="1">&lt;code&gt;</bpt>enb make specs desktop.specs/&lt;block-name&gt;<ept id="1">&lt;/code&gt;</ept> (например, <bpt id="2">&lt;code&gt;</bpt>enb make specs desktop.specs/input<ept id="2">&lt;/code&gt;</ept>).</source>
+</trans-unit>
+      <trans-unit id="tu153" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Тесты запускаются автоматически на <bpt id="1">&lt;a href="https://travis-ci.org" data-url="https://travis-ci.org"&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> для каждого pull request'а.</source>
+</trans-unit>
+      <trans-unit id="tu154" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="regression-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu155" resname="---id" restype="x-h4" xml:space="preserve">
+<source xml:lang="ru">Регрессионное тестирование верстки</source>
+</trans-unit>
+      <trans-unit id="tu156" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Для тестирования верстки используется <bpt id="1">&lt;a href="https://ru.bem.info/tools/testing/gemini/" data-url="https://ru.bem.info/tools/testing/gemini/"&gt;</bpt>Gemini<ept id="1">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu157" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Тесты каждого блока находятся в отдельном файле вида <bpt id="1">&lt;code&gt;</bpt>block-name.gemini.js<ept id="1">&lt;/code&gt;</ept> в директории <bpt id="2">&lt;code&gt;</bpt>gemini/<ept id="2">&lt;/code&gt;</ept>. Локально тесты запускаются вручную. Тесты на Travis запускаются автоматически. В качестве <bpt id="3">&lt;a href="https://code.google.com/p/selenium/wiki/Grid2" data-url="https://code.google.com/p/selenium/wiki/Grid2"&gt;</bpt>Selenium Grid<ept id="3">&lt;/a&gt;</ept> используется сервис <bpt id="4">&lt;a href="https://saucelabs.com" data-url="https://saucelabs.com"&gt;</bpt>SauceLabs<ept id="4">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu158" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="run-test"&gt;</bpt><ept id="1">&lt;/a&gt;</ept><ph id="2">&lt;br /&gt;</ph>Для запуска тестов локально необходимо:</source>
+</trans-unit>
+      <trans-unit id="tu159" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Создайте учетную запись <bpt id="1">&lt;a href="https://saucelabs.com/opensauce" data-url="https://saucelabs.com/opensauce"&gt;</bpt>OpenSauce<ept id="1">&lt;/a&gt;</ept> в SauceLabs.</source>
+</trans-unit>
+      <trans-unit id="tu160" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Установите утилиту <bpt id="1">&lt;a href="https://saucelabs.com/connect" data-url="https://saucelabs.com/connect"&gt;</bpt>Sauce Connect<ept id="1">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu161" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Настройте окружение (переменные среды <bpt id="1">&lt;code&gt;</bpt>SAUCE_USERNAME<ept id="1">&lt;/code&gt;</ept> и <bpt id="2">&lt;code&gt;</bpt>SAUCE_ACCESS_KEY<ept id="2">&lt;/code&gt;</ept>).</source>
+</trans-unit>
+      <trans-unit id="tu162" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Запустите утилиту <bpt id="1">&lt;code&gt;</bpt>sc<ept id="1">&lt;/code&gt;</ept> (SauceConnect) и дождаться установки туннеля.</source>
+</trans-unit>
+      <trans-unit id="tu163" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Запустите тесты командой <bpt id="1">&lt;code&gt;</bpt>npm run gemini<ept id="1">&lt;/code&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu164" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Соберите новые версии скриншотов при необходимости командой <bpt id="1">&lt;code&gt;</bpt>npm run gemini-gather<ept id="1">&lt;/code&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu165" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">При разработке новых тестов для ускорения локального запуска:</source>
+</trans-unit>
+      <trans-unit id="tu166" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Установите и запустите <bpt id="1">&lt;a href="http://docs.seleniumhq.org/download/" data-url="http://docs.seleniumhq.org/download/"&gt;</bpt>Selenium Server<ept id="1">&lt;/a&gt;</ept> или <bpt id="2">&lt;a href="http://phantomjs.org/" data-url="http://phantomjs.org/"&gt;</bpt>PhantomJS<ept id="2">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu167" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Исправьте в файле <bpt id="1">&lt;code&gt;</bpt>.gemini.yml<ept id="1">&lt;/code&gt;</ept> опцию <bpt id="2">&lt;code&gt;</bpt>gridUrl<ept id="2">&lt;/code&gt;</ept> на <bpt id="3">&lt;code&gt;</bpt>http://localhost:4444/<ept id="3">&lt;/code&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu168" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="#run-test"&gt;</bpt>Запустите тесты<ept id="1">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu169" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Подробно про использование <bpt id="1">&lt;code&gt;</bpt>Gemini<ept id="1">&lt;/code&gt;</ept> с разными бекендами читайте в статье <bpt id="2">&lt;a href="https://ru.bem.info/tools/testing/gemini/" data-url="https://ru.bem.info/tools/testing/gemini/"&gt;</bpt>Введение в работу с Gemini<ept id="2">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu170" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>NB<ept id="1">&lt;/strong&gt;</ept> В репозиторий необходимо сохранять скриншоты, собранные в SauceLabs. Это позволит избежать отличий в отрисовке шрифтов.</source>
+</trans-unit>
+      <trans-unit id="tu171" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Перед коммитом новых или измененных эталонных изображений необходимо:</source>
+</trans-unit>
+      <trans-unit id="tu172" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Проверить корректность изображения. Для определения разницы между старой и новой версиями, используйте утилиту Araxis Merge или аналогичную.</source>
+</trans-unit>
+      <trans-unit id="tu173" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Сжать изображения с помощью <bpt id="1">&lt;a href="http://imageoptim.com/" data-url="http://imageoptim.com/"&gt;</bpt>ImageOptim<ept id="1">&lt;/a&gt;</ept> (самый эффективный инструмент сжатия изображений на май 2014 года).</source>
+</trans-unit>
+      <trans-unit id="tu174" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="template-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu175" resname="---id" restype="x-h4" xml:space="preserve">
+<source xml:lang="ru">Тесты на шаблоны</source>
+</trans-unit>
+      <trans-unit id="tu176" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Инструменты сборки библиотеки позволяют собирать и запускать тесты на BEMHTML- и BH-шаблоны блоков.</source>
+</trans-unit>
+      <trans-unit id="tu177" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Добавление теста для блока<ept id="1">&lt;/strong&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu178" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Создать каталог с названием <bpt id="1">&lt;code&gt;</bpt>[имя блока].tmpl-specs<ept id="1">&lt;/code&gt;</ept> в директории блока на требуемом уровне переопределения. В данном каталоге будут храниться файлы тестов.</source>
+</trans-unit>
+      <trans-unit id="tu179" restype="x-li" xml:space="preserve">
+<source xml:lang="ru">Для каждого теста создать пару файлов: BEMJSON и HTML. В BEMJSON-файле находится пример для блока, в HTML-файле – эталонный HTML-код, который должен<ph id="1">&lt;br /&gt;</ph>получиться после применения шаблона блока к BEMJSON-у примера.<ph id="2">&lt;br /&gt;</ph>Имена файлов (не включая расширения) для одного<ph id="3">&lt;br /&gt;</ph>теста должны совпадать. Например, <bpt id="4">&lt;strong&gt;</bpt>10-default<ept id="4">&lt;/strong&gt;</ept>.bemjson.js и <bpt id="5">&lt;strong&gt;</bpt>10-default<ept id="5">&lt;/strong&gt;</ept>.html.</source>
+</trans-unit>
+      <trans-unit id="tu180" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">К блоку могут быть написаны несколько тестов и, соответственно, каждый тест будет состоять из пары файлов BEMJSON + HTML с одинаковыми именами.</source>
+</trans-unit>
+      <trans-unit id="tu181" restype="x-pre" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>desktop.blocks
+    └── myblocks
+        ├── myblock.bemhtml.js
+        ├── myblock.bh.js
+        ├── ...
+        └── myblock.tmpl-specs
+            ├── 10-default.bemjson.js
+            ├── 10-default.html
+            ├── 20-advanced.bemjson.js
+            └── 20-advanced.html<ept id="1">&lt;/code&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu182" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Команда для сборки и запуска тестов:</source>
+</trans-unit>
+      <trans-unit id="tu183" restype="x-pre" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>magic run tmpl-specs<ept id="1">&lt;/code&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu184" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Сборка тестов на нужном уровне переопределения:</source>
+</trans-unit>
+      <trans-unit id="tu185" restype="x-pre" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>magic make desktop.tmpl-specs<ept id="1">&lt;/code&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu186" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Сборка тестов только для одного блока (точечная сборка):</source>
+</trans-unit>
+      <trans-unit id="tu187" restype="x-pre" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;code&gt;</bpt>magic make desktop.tmpl-specs/button<ept id="1">&lt;/code&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu188" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">В случае успешной сборки, тесты будут запущены с последующим выводом результатов. Если результат применения<ph id="1">&lt;br /&gt;</ph>шаблона не совпадает с эталонным HTML, то в логе будет ошибка с указанием отличий от эталона.</source>
+</trans-unit>
+      <trans-unit id="tu189" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Все тесты автоматически запускаются на <bpt id="1">&lt;a href="https://travis-ci.org" data-url="https://travis-ci.org"&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> для каждого pull request'a.</source>
+</trans-unit>
+      <trans-unit id="tu190" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="maintain"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu191" resname="---id" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Команда основной разработки</source>
+</trans-unit>
+      <trans-unit id="tu192" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://github.com/veged" data-url="https://github.com/veged"&gt;</bpt>veged<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu193" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://github.com/dfilatov" data-url="https://github.com/dfilatov"&gt;</bpt>dfilatov<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu194" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://github.com/mishanga" data-url="https://github.com/mishanga"&gt;</bpt>mishanga<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu195" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a href="https://github.com/narqo" data-url="https://github.com/narqo"&gt;</bpt>narqo<ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu196" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;a preserve="1" name="workflow"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></source>
+</trans-unit>
+      <trans-unit id="tu197" resname="--id" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Рабочий процесс</source>
+</trans-unit>
+      <trans-unit id="tu198" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Список текущих задач отображается на специальном <bpt id="1">&lt;a href="https://waffle.io/bem/bem-components" data-url="https://waffle.io/bem/bem-components"&gt;</bpt>Agile Board<ept id="1">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+      <trans-unit id="tu199" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">Статусы задач:</source>
+</trans-unit>
+      <trans-unit id="tu200" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>backlog<ept id="1">&lt;/strong&gt;</ept> — неразобранные задачи, которые требуют обсуждения командой для оценки и принятия решения о реализации. В таком статусе также могут находиться задачи, по которым нужна дополнительная информация.</source>
+</trans-unit>
+      <trans-unit id="tu201" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>ready<ept id="1">&lt;/strong&gt;</ept> — разобранные задачи, решение о реализации которых принято.</source>
+</trans-unit>
+      <trans-unit id="tu202" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>in progress<ept id="1">&lt;/strong&gt;</ept> — задачи с конкретным исполнителем, которые находятся в работе.</source>
+</trans-unit>
+      <trans-unit id="tu203" restype="x-li" xml:space="preserve">
+<source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>done<ept id="1">&lt;/strong&gt;</ept> — задачи, закрытые за последние семь дней (это временное техническое ограничение выбранного Agile Board).</source>
+</trans-unit>
+      <trans-unit id="tu204" restype="x-h2" xml:space="preserve">
+<source xml:lang="ru">Лицензия</source>
+</trans-unit>
+      <trans-unit id="tu205" restype="x-paragraph" xml:space="preserve">
+<source xml:lang="ru">© 2012 YANDEX LLC. Код лицензирован <bpt id="1">&lt;a href="LICENSE.txt"&gt;</bpt>Mozilla Public License 2.0<ept id="1">&lt;/a&gt;</ept>.</source>
+</trans-unit>
+    </body>
+  </file>
+</xliff>
