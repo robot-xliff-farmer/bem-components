@@ -1,10 +1,10 @@
 BEM Components Library
 ======================
 
-""\>
-""\>
-""\>
-""\>
+[![GitHub Release](https://img.shields.io/github/release/bem/bem-components.svg?style=flat)](https://github.com/bem/bem-components/releases)
+[![Build Status](https://img.shields.io/travis/bem/bem-components/v2.svg?style=flat)](https://travis-ci.org/bem/bem-components)
+[![Coverage Status](https://img.shields.io/coveralls/bem/bem-components/v2.svg?style=flat)](https://coveralls.io/r/bem/bem-components?branch=v2)
+[![devDependency Status](https://img.shields.io/david/dev/bem/bem-components.svg?style=flat)](https://david-dm.org/bem/bem-components#info=devDependencies)
 
 What is this?
 -------------
@@ -97,20 +97,20 @@ Supported browsers
 
 To support Internet Explorer 8, you must add
 
--   ""\>;
--   style files with the `*.ie.styl` extension to the page. To do this, specify them in the build config (see this ""\>) and add comments in the `page` section (see this ""\>). You can also enable styles for Internet Explorer 8 at the template level.
+-   [es5-shim](https://www.npmjs.com/package/es5-shim);
+-   style files with the `*.ie.styl` extension to the page. To do this, specify them in the build config (see this [example](https://github.com/bem/bem-components/blob/1f218c8ba10183fda21660e28cfbb280cd8cde54/.enb/make.js#L174)) and add comments in the `page` section (see this [example](https://gist.github.com/innabelaya/904ab01666fd1a19d312)). You can also enable styles for Internet Explorer 8 at the template level.
 
 <a name="techs"></a>
 
 Technologies
 ------------
 
--   ""\>
--   ""\>
--   ""\>
--   ""\>
--   ""\>
--   ""\>
+-   [YModules](https://ru.bem.info/tools/bem/modules/)
+-   [i-bem.js](https://ru.bem.info/technology/i-bem/current/i-bem-js/)
+-   [BEMHTML](https://ru.bem.info/technology/bemhtml/current/reference/)
+-   [BH](https://ru.bem.info/technology/bh/current/about/)
+-   [DEPS](https://ru.bem.info/technology/deps/about/)
+-   [Stylus](https://learnboost.github.io/stylus/)
 
 <a name="tools"></a>
 
@@ -119,33 +119,33 @@ Tools
 
 **Assemblers**
 
--   ""\>
--   ""\>
--   ""\>
+-   [bem-tools](https://ru.bem.info/tools/bem/bem-tools/)
+-   [ENB](http://enb-make.info/)
+-   [borschik](https://ru.bem.info/tools/optimizers/borschik/)
 
 **Optimizers**
 
--   ""\>
--   ""\>
--   ""\>
+-   [SVGO](https://ru.bem.info/tools/optimizers/svgo/svgo/)
+-   [CleanCSS](http://www.cleancss.com/about.php)
+-   [ImageOptim](http://imageoptim.com/)
 
 **Code analysis**
 
--   ""\>
--   ""\>
+-   [jshint](http://www.jshint.com/)
+-   [jscs](https://github.com/jscs-dev/node-jscs)
 
 **Other**
 
--   ""\> — used during assembly to generate vendor prefixes for supported browsers based on the configuration.
+-   [Autoprefixer](https://github.com/ai/autoprefixer/) — used during assembly to generate vendor prefixes for supported browsers based on the configuration.
 
 <a name="usage"></a>
 
 Usage
 -----
 
-Use ""\> or ""\> to connect the library to the project. Specify the library name and version in the configuration file for your chosen assembly tool.
+Use [bem-tools](https://ru.bem.info/tools/bem/bem-tools/) or [ENB](http://enb-make.info/) to connect the library to the project. Specify the library name and version in the configuration file for your chosen assembly tool.
 
-For projects developed on ""\>, the library is enabled by default.
+For projects developed on [project-stub](https://ru.bem.info/tutorials/project-stub/), the library is enabled by default.
 
 <a name="supply"></a>
 
@@ -228,14 +228,14 @@ $ npm run lint
 
 ### How to contribute
 
-1.  Create an ""\> with a proper description of changes.
+1.  Create an [issue](https://github.com/bem/bem-components/issues/new) with a proper description of changes.
 2.  Determine the library version to make changes to.
 3.  Create a feature branch with the issue number and version (`issues/<issue_number>@v<version_number>`) based on a version branch.
     For example, for issue \#42 and version 2: `git checkout -b issues/42@v2`. If you are making changes to multiple versions, each of them must have its own feature branch.
 4.  Make changes. To check the results of your changes locally for errors, run `npm test`.
 5.  Commit your changes and push them to the remote repository. If necessary, `rebase` your branch from the base version branch.
 6.  Create a pull request from your feature branch. If you changed multiple versions, create a pull request for each version.
-7.  Link your pull request with an issue number (for example, leave a ""\> with the issue number).
+7.  Link your pull request with an issue number (for example, leave a [comment](https://github.com/blog/1506-closing-issues-via-pull-requests) with the issue number).
 8.  Wait for the pull request to be accepted and the issue to be closed.
 
 <a name="modular-tests"></a>
@@ -250,21 +250,21 @@ The `npm run test-specs` command launches unit tests on JS.
 
 To launch point-based assembly, use the command `enb make specs desktop.specs/<block-name>` (for example, `enb make specs desktop.specs/input`).
 
-Tests will be run automatically on ""\> for each pull request.
+Tests will be run automatically on [Travis](https://travis-ci.org) for each pull request.
 
 <a name="regression-tests"></a>
 
 #### Regression tests for layout
 
-""\> is used for layout testing.
+[Gemini](https://ru.bem.info/tools/testing/gemini/) is used for layout testing.
 
-Tests for each block are stored in a separate `block-name.gemini.js` file in the `gemini/` directory. Locally, test are executed manually. On Travis, tests are executed automatically. For ""\>, the ""\> service is used.
+Tests for each block are stored in a separate `block-name.gemini.js` file in the `gemini/` directory. Locally, test are executed manually. On Travis, tests are executed automatically. For [Selenium Grid](https://code.google.com/p/selenium/wiki/Grid2), the [SauceLabs](https://saucelabs.com) service is used.
 
 <a name="run-test"></a>
 For executing tests locally, you need to:
 
-1.  Create an ""\> account in SauceLabs.
-2.  Install the ""\> utility.
+1.  Create an [OpenSauce](https://saucelabs.com/opensauce) account in SauceLabs.
+2.  Install the [Sauce Connect](https://saucelabs.com/connect) utility.
 3.  Set up environment variables (`SAUCE_USERNAME` and `SAUCE_ACCESS_KEY`).
 4.  Launch the `src` utility (SauceConnect) and wait for the tunnel to be opened.
 5.  Run the tests using `npm run gemini`.
@@ -272,18 +272,18 @@ For executing tests locally, you need to:
 
 When developing new tests to speed up local execution:
 
-1.  Install and run ""\> or ""\>.
+1.  Install and run [Selenium Server](http://docs.seleniumhq.org/download/) or [PhantomJS](http://phantomjs.org/).
 2.  In the `.gemini.yml` file, change the `gridUrl` option to `http://localhost:4444/`.
 3.  [Run the tests](#run-test).
 
-For more information about using `Gemini` with various backends, read the article ""\>.
+For more information about using `Gemini` with various backends, read the article [Gemini quick start](https://ru.bem.info/tools/testing/gemini/).
 
 **Note:** You need to save screenshots from SauceLabs in the repository. This helps to avoid discrepancies when rendering fonts.
 
 Before commiting new or modified reference images, you must:
 
 1.  Make sure the images are correct. To find differences between the old and new versions, use the Araxis Merge utility or something similar.
-2.  Use ""\> to compress the images (this is the most effective tool for compressing images as of May, 2014).
+2.  Use [ImageOptim](http://imageoptim.com/) to compress the images (this is the most effective tool for compressing images as of May, 2014).
 
 <a name="template-tests"></a>
 
@@ -333,24 +333,24 @@ magic make desktop.tmpl-specs/button
 If the build procedure is successful, tests are run automatically, and you will see all test results. If the result of applying
 the template does not match with the block sample in HTML, you will see an error in the log indicating how it differs from the block sample.
 
-All tests are run automatically using ""\> on each pull request.
+All tests are run automatically using [Travis](https://travis-ci.org) on each pull request.
 
 <a name="maintain"></a>
 
 Maintainers
 -----------
 
--   ""\>
--   ""\>
--   ""\>
--   ""\>
+-   [veged](https://github.com/veged)
+-   [dfilatov](https://github.com/dfilatov)
+-   [mishanga](https://github.com/mishanga)
+-   [narqo](https://github.com/narqo)
 
 <a name="workflow"></a>
 
 Workflow
 --------
 
-Current tasks are listed on a special ""\>.
+Current tasks are listed on a special [Agile Board](https://waffle.io/bem/bem-components).
 
 Task statuses:
 
