@@ -1079,7 +1079,7 @@
 <prop prop-type="tuid">1434641100314</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu87" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source><target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/modules/</target><?sid 1838308663-0?><alt-trans match-quality="42" xml:space="default" origin="geosearch">
+      <trans-unit id="tu87" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source><target state="translated" xml:lang="en">https://en.bem.info/tools/bem/modules/</target><?sid 1838308663-0?><alt-trans match-quality="42" xml:space="default" origin="geosearch">
 <?id 1838308663-0-115156?>
 <source xml:lang="ru">https://travis-ci.org/bem/bem-components</source>
 <target xml:lang="en">https://travis-ci.org/bem/bem-components</target>
@@ -1099,7 +1099,7 @@
 <prop prop-type="tuid">1434641100316</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu89" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/technology/i-bem/current/i-bem-js/</source><target state="translated" xml:lang="en">https://ru.bem.info/technology/i-bem/current/i-bem-js/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="47" tool="Swordfish">
+      <trans-unit id="tu89" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/technology/i-bem/current/i-bem-js/</source><target state="translated" xml:lang="en">https://en.bem.info/tutorials/bem-js-tutorial/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="47" tool="Swordfish">
 <source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source>
 <target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/modules/</target>
 </alt-trans></trans-unit>
@@ -1114,7 +1114,7 @@
 <prop prop-type="tuid">1434641098066</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu91" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/technology/bemhtml/current/reference/</source><target state="translated" xml:lang="en">https://ru.bem.info/technology/bemhtml/current/reference/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="43" tool="Swordfish">
+      <trans-unit id="tu91" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/technology/bemhtml/current/reference/</source><target state="translated" xml:lang="en">https://en.bem.info/technology/bemhtml/current/reference/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="43" tool="Swordfish">
 <source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source>
 <target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/modules/</target>
 </alt-trans><alt-trans origin="autoFuzzy" ts="85" match-quality="71" tool="Swordfish">
@@ -1132,7 +1132,7 @@
 <prop prop-type="tuid">1434641100317</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu93" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/technology/bh/current/about/</source><target state="translated" xml:lang="en">https://ru.bem.info/technology/bh/current/about/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="48" tool="Swordfish">
+      <trans-unit id="tu93" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/technology/bh/current/about/</source><target state="translated" xml:lang="en">https://en.bem.info/technology/bh/current/about/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="48" tool="Swordfish">
 <source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source>
 <target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/modules/</target>
 </alt-trans><alt-trans origin="autoFuzzy" ts="85" match-quality="72" tool="Swordfish">
@@ -1153,7 +1153,7 @@
 <prop prop-type="tuid">1434641100318</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu95" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/technology/deps/about/</source><target state="translated" xml:lang="en">https://ru.bem.info/technology/deps/about/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="60" tool="Swordfish">
+      <trans-unit id="tu95" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/technology/deps/about/</source><target state="translated" xml:lang="en">https://en.bem.info/technology/deps/about/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="60" tool="Swordfish">
 <source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source>
 <target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/modules/</target>
 </alt-trans><alt-trans origin="autoFuzzy" ts="85" match-quality="60" tool="Swordfish">
@@ -1197,7 +1197,7 @@
 </prop-group>
 </alt-trans></trans-unit>
       <trans-unit id="tu100" restype="x-paragraph" xml:space="preserve" approved="yes"><source xml:lang="ru"><bpt id="1">&lt;strong&gt;</bpt>Сборщики<ept id="1">&lt;/strong&gt;</ept></source><target state="translated" xml:lang="en"><bpt id="1">&lt;strong&gt;</bpt>Assemblers<ept id="1">&lt;/strong&gt;</ept></target><?sid 1838308663-0?></trans-unit>
-      <trans-unit id="tu102" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/bem/bem-tools/</source><target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/bem-tools/</target><?sid 1838308663-0?><alt-trans match-quality="47" xml:space="default" origin="geosearch">
+      <trans-unit id="tu102" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/bem/bem-tools/</source><target state="translated" xml:lang="en">https://en.bem.info/tools/bem/bem-tools/</target><?sid 1838308663-0?><alt-trans match-quality="47" xml:space="default" origin="geosearch">
 <?id 1838308663-0-115156?>
 <source xml:lang="ru">https://travis-ci.org/bem/bem-components</source>
 <target xml:lang="en">https://travis-ci.org/bem/bem-components</target>
@@ -1240,7 +1240,7 @@
 <prop prop-type="tuid">1434641098073</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu104" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">http://enb-make.info/</source><target state="translated" xml:lang="en">http://enb-make.info/</target><?sid 1838308663-0?></trans-unit>
+      <trans-unit id="tu104" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">http://enb-make.info/</source><target state="translated" xml:lang="en">https://en.bem.info/tools/bem/enb-bem/</target><?sid 1838308663-0?></trans-unit>
       <trans-unit id="tu103" restype="x-li" xml:space="preserve" approved="yes">
 <source xml:lang="ru"><bpt id="1">&lt;a href="http://enb-make.info/" [#$tu104]&gt;</bpt>ENB<ept id="1">&lt;/a&gt;</ept></source>
    <target xml:lang="en" state="needs-review-translation"><bpt id="1">&lt;a href="http://enb-make.info/" [#$tu104]&gt;</bpt>ENB<ept id="1">&lt;/a&gt;</ept></target><?sid 1838308663-0?><alt-trans match-quality="98" xml:space="default" origin="bbc">
@@ -1252,7 +1252,7 @@
 <prop prop-type="tuid">1434641098074</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu106" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/optimizers/borschik/</source><target state="translated" xml:lang="en">https://ru.bem.info/tools/optimizers/borschik/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="59" tool="Swordfish">
+      <trans-unit id="tu106" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/optimizers/borschik/</source><target state="translated" xml:lang="en">https://en.bem.info/tools/optimizers/borschik/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="59" tool="Swordfish">
 <source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source>
 <target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/modules/</target>
 </alt-trans><alt-trans origin="autoFuzzy" ts="85" match-quality="44" tool="Swordfish">
@@ -1301,7 +1301,7 @@
 <prop prop-type="tuid">1434641100327</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu109" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/optimizers/svgo/svgo/</source><target state="translated" xml:lang="en">https://ru.bem.info/tools/optimizers/svgo/svgo/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="58" tool="Swordfish">
+      <trans-unit id="tu109" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/optimizers/svgo/svgo/</source><target state="translated" xml:lang="en">https://en.bem.info/tools/optimizers/svgo/svgo/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="58" tool="Swordfish">
 <source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source>
 <target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/modules/</target>
 </alt-trans><alt-trans origin="autoFuzzy" ts="85" match-quality="42" tool="Swordfish">
@@ -1454,7 +1454,7 @@
 <prop prop-type="tuid">1434641100268</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu125" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/bem/bem-tools/</source><target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/bem-tools/</target><?sid 1838308663-0?><alt-trans match-quality="47" xml:space="default" origin="geosearch">
+      <trans-unit id="tu125" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/bem/bem-tools/</source><target state="translated" xml:lang="en">https://en.bem.info/tools/bem/bem-tools/</target><?sid 1838308663-0?><alt-trans match-quality="47" xml:space="default" origin="geosearch">
 <?id 1838308663-0-115156?>
 <source xml:lang="ru">https://travis-ci.org/bem/bem-components</source>
 <target xml:lang="en">https://travis-ci.org/bem/bem-components</target>
@@ -1500,7 +1500,7 @@
 <target state="translated" xml:lang="en">http://www.jshint.com/</target>
 </alt-trans></trans-unit>
       <trans-unit id="tu124" restype="x-paragraph" xml:space="preserve" approved="yes"><source xml:lang="ru">Библиотека в проект подключается с помощью <bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" [#$tu125]&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept> или <bpt id="2">&lt;a href="http://enb-make.info/" [#$tu126]&gt;</bpt>ENB<ept id="2">&lt;/a&gt;</ept>. Укажите название и версию библиотеки в конфигурационном файле выбранного вами сборщика.</source><target state="translated" xml:lang="en">Use <bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" [#$tu125]&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept> or <bpt id="2">&lt;a href="http://enb-make.info/" [#$tu126]&gt;</bpt>ENB<ept id="2">&lt;/a&gt;</ept> to connect the library to the project. Specify the library name and version in the configuration file for your chosen assembly tool.</target><?sid 1838308663-0?></trans-unit>
-      <trans-unit id="tu128" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tutorials/project-stub/</source><target state="translated" xml:lang="en">https://ru.bem.info/tutorials/project-stub/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="56" tool="Swordfish">
+      <trans-unit id="tu128" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tutorials/project-stub/</source><target state="translated" xml:lang="en">https://en.bem.info/tutorials/project-stub/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="56" tool="Swordfish">
 <source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source>
 <target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/modules/</target>
 </alt-trans><alt-trans origin="autoFuzzy" ts="85" match-quality="42" tool="Swordfish">
@@ -2014,7 +2014,7 @@ $ open http://localhost:8080/<ept id="" rid="">&lt;/code&gt;</ept></target>
 <prop prop-type="tuid">1434641100280</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu185" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/testing/gemini/</source><target state="translated" xml:lang="en">https://ru.bem.info/tools/testing/gemini/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="70" tool="Swordfish">
+      <trans-unit id="tu185" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/testing/gemini/</source><target state="translated" xml:lang="en">https://en.bem.info/tools/testing/gemini/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="70" tool="Swordfish">
 <source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source>
 <target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/modules/</target>
 </alt-trans><alt-trans origin="autoFuzzy" ts="85" match-quality="44" tool="Swordfish">
@@ -2193,7 +2193,7 @@ $ open http://localhost:8080/<ept id="" rid="">&lt;/code&gt;</ept></target>
 <prop prop-type="tuid">1434641100446</prop>
 </prop-group>
 </alt-trans></trans-unit>
-      <trans-unit id="tu205" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/testing/gemini/</source><target state="translated" xml:lang="en">https://ru.bem.info/tools/testing/gemini/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="70" tool="Swordfish">
+      <trans-unit id="tu205" restype="x-data-url" xml:space="preserve" approved="yes"><source xml:lang="ru">https://ru.bem.info/tools/testing/gemini/</source><target state="translated" xml:lang="en">https://en.bem.info/tools/testing/gemini/</target><?sid 1838308663-0?><alt-trans origin="autoFuzzy" ts="83" match-quality="70" tool="Swordfish">
 <source xml:lang="ru">https://ru.bem.info/tools/bem/modules/</source>
 <target state="translated" xml:lang="en">https://ru.bem.info/tools/bem/modules/</target>
 </alt-trans><alt-trans origin="autoFuzzy" ts="85" match-quality="44" tool="Swordfish">
