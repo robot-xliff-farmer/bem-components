@@ -11333,23 +11333,23 @@
 	<tuv xml:lang="ru"><seg>Технологии</seg></tuv>
 	<tuv xml:lang="en"><seg>Technologies</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://ru.bem.info/tools/bem/modules/</seg></tuv>
-	<tuv xml:lang="en"><seg>https://ru.bem.info/tools/bem/modules/</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>https://en.bem.info/tools/bem/modules/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/modules/" [#$tu87]&gt;</bpt>YModules<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/modules/" [#$tu87]&gt;</bpt>YModules<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://ru.bem.info/technology/i-bem/current/i-bem-js/</seg></tuv>
-	<tuv xml:lang="en"><seg>https://ru.bem.info/technology/i-bem/current/i-bem-js/</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>https://en.bem.info/tutorials/bem-js-tutorial/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/i-bem/current/i-bem-js/" [#$tu89]&gt;</bpt>i-bem.js<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/i-bem/current/i-bem-js/" [#$tu89]&gt;</bpt>i-bem.js<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://ru.bem.info/technology/bemhtml/current/reference/</seg></tuv>
-	<tuv xml:lang="en"><seg>https://ru.bem.info/technology/bemhtml/current/reference/</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>https://en.bem.info/technology/bemhtml/current/reference/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/bemhtml/current/reference/" [#$tu91]&gt;</bpt>BEMHTML<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/bemhtml/current/reference/" [#$tu91]&gt;</bpt>BEMHTML<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://ru.bem.info/technology/bh/current/about/</seg></tuv>
-	<tuv xml:lang="en"><seg>https://ru.bem.info/technology/bh/current/about/</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>https://en.bem.info/technology/bh/current/about/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/bh/current/about/" [#$tu93]&gt;</bpt>BH<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/bh/current/about/" [#$tu93]&gt;</bpt>BH<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://ru.bem.info/technology/deps/about/</seg></tuv>
-	<tuv xml:lang="en"><seg>https://ru.bem.info/technology/deps/about/</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>https://en.bem.info/technology/deps/about/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/deps/about/" [#$tu95]&gt;</bpt>DEPS<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/deps/about/" [#$tu95]&gt;</bpt>DEPS<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://learnboost.github.io/stylus/</seg></tuv>
@@ -11367,13 +11367,13 @@
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="http://enb-make.info/" [#$tu104]&gt;</bpt>ENB<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="http://enb-make.info/" [#$tu104]&gt;</bpt>ENB<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://ru.bem.info/tools/optimizers/borschik/</seg></tuv>
-	<tuv xml:lang="en"><seg>https://ru.bem.info/tools/optimizers/borschik/</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>https://en.bem.info/tools/optimizers/borschik/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/borschik/" [#$tu106]&gt;</bpt>borschik<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/borschik/" [#$tu106]&gt;</bpt>borschik<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Оптимизаторы<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Optimizers<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://ru.bem.info/tools/optimizers/svgo/svgo/</seg></tuv>
-	<tuv xml:lang="en"><seg>https://ru.bem.info/tools/optimizers/svgo/svgo/</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>https://en.bem.info/tools/optimizers/svgo/svgo/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/svgo/svgo/" [#$tu109]&gt;</bpt>SVGO<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/svgo/svgo/" [#$tu109]&gt;</bpt>SVGO<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>http://www.cleancss.com/about.php</seg></tuv>
@@ -11403,13 +11403,13 @@
 	<tuv xml:lang="ru"><seg>Использование</seg></tuv>
 	<tuv xml:lang="en"><seg>Usage</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://ru.bem.info/tools/bem/bem-tools/</seg></tuv>
-	<tuv xml:lang="en"><seg>https://ru.bem.info/tools/bem/bem-tools/</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>https://en.bem.info/tools/bem/bem-tools/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>http://enb-make.info/</seg></tuv>
 	<tuv xml:lang="en"><seg>http://enb-make.info/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Библиотека в проект подключается с помощью <bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" [#$tu125]&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept> или <bpt id="2">&lt;a href="http://enb-make.info/" [#$tu126]&gt;</bpt>ENB<ept id="2">&lt;/a&gt;</ept>. Укажите название и версию библиотеки в конфигурационном файле выбранного вами сборщика.</seg></tuv>
 	<tuv xml:lang="en"><seg>Use <bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" [#$tu125]&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept> or <bpt id="2">&lt;a href="http://enb-make.info/" [#$tu126]&gt;</bpt>ENB<ept id="2">&lt;/a&gt;</ept> to connect the library to the project. Specify the library name and version in the configuration file for your chosen assembly tool.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://ru.bem.info/tutorials/project-stub/</seg></tuv>
-	<tuv xml:lang="en"><seg>https://ru.bem.info/tutorials/project-stub/</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>https://en.bem.info/tutorials/project-stub/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>При разработке проекта на основе <bpt id="1">&lt;a href="https://ru.bem.info/tutorials/project-stub/" [#$tu128]&gt;</bpt>project-stub<ept id="1">&lt;/a&gt;</ept> библиотека подключена по умолчанию.</seg></tuv>
 	<tuv xml:lang="en"><seg>For projects developed on <bpt id="1">&lt;a href="https://ru.bem.info/tutorials/project-stub/" [#$tu128]&gt;</bpt>project-stub<ept id="1">&lt;/a&gt;</ept>, the library is enabled by default.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="supply"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
@@ -11563,7 +11563,7 @@ $ open http://localhost:8080/<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="#run-test"&gt;</bpt>Запустите тесты<ept id="1">&lt;/a&gt;</ept>.</seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="#run-test"&gt;</bpt>Run the tests<ept id="1">&lt;/a&gt;</ept>.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>https://ru.bem.info/tools/testing/gemini/</seg></tuv>
-	<tuv xml:lang="en"><seg>https://ru.bem.info/tools/testing/gemini/</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>https://en.bem.info/tools/testing/gemini/</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Подробно про использование <bpt id="1">&lt;code&gt;</bpt>Gemini<ept id="1">&lt;/code&gt;</ept> с разными бекендами читайте в статье <bpt id="2">&lt;a href="https://ru.bem.info/tools/testing/gemini/" [#$tu205]&gt;</bpt>Введение в работу с Gemini<ept id="2">&lt;/a&gt;</ept>.</seg></tuv>
 	<tuv xml:lang="en"><seg>For more information about using <bpt id="1">&lt;code&gt;</bpt>Gemini<ept id="1">&lt;/code&gt;</ept> with various backends, read the article <bpt id="2">&lt;a href="https://ru.bem.info/tools/testing/gemini/" [#$tu205]&gt;</bpt>Gemini quick start<ept id="2">&lt;/a&gt;</ept>.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>NB<ept id="1">&lt;/strong&gt;</ept> В репозиторий необходимо сохранять скриншоты, собранные в SauceLabs. Это позволит избежать отличий в отрисовке шрифтов.</seg></tuv>

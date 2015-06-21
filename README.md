@@ -105,11 +105,11 @@ To support Internet Explorer 8, you must add
 Technologies
 ------------
 
--   [YModules](https://ru.bem.info/tools/bem/modules/)
--   [i-bem.js](https://ru.bem.info/technology/i-bem/current/i-bem-js/)
--   [BEMHTML](https://ru.bem.info/technology/bemhtml/current/reference/)
--   [BH](https://ru.bem.info/technology/bh/current/about/)
--   [DEPS](https://ru.bem.info/technology/deps/about/)
+-   [YModules](https://en.bem.info/tools/bem/modules/)
+-   [i-bem.js](https://en.bem.info/tutorials/bem-js-tutorial/)
+-   [BEMHTML](https://en.bem.info/technology/bemhtml/current/reference/)
+-   [BH](https://en.bem.info/technology/bh/current/about/)
+-   [DEPS](https://en.bem.info/technology/deps/about/)
 -   [Stylus](https://learnboost.github.io/stylus/)
 
 <a name="tools"></a>
@@ -119,13 +119,13 @@ Tools
 
 **Assemblers**
 
--   [bem-tools](https://ru.bem.info/tools/bem/bem-tools/)
--   [ENB](http://enb-make.info/)
--   [borschik](https://ru.bem.info/tools/optimizers/borschik/)
+-   [bem-tools](https://en.bem.info/tools/bem/bem-tools/)
+-   [ENB](https://en.bem.info/tools/bem/enb-bem/)
+-   [borschik](https://en.bem.info/tools/optimizers/borschik/)
 
 **Optimizers**
 
--   [SVGO](https://ru.bem.info/tools/optimizers/svgo/svgo/)
+-   [SVGO](https://en.bem.info/tools/optimizers/svgo/svgo/)
 -   [CleanCSS](http://www.cleancss.com/about.php)
 -   [ImageOptim](http://imageoptim.com/)
 
@@ -143,9 +143,9 @@ Tools
 Usage
 -----
 
-Use [bem-tools](https://ru.bem.info/tools/bem/bem-tools/) or [ENB](http://enb-make.info/) to connect the library to the project. Specify the library name and version in the configuration file for your chosen assembly tool.
+Use [bem-tools](https://en.bem.info/tools/bem/bem-tools/) or [ENB](http://enb-make.info/) to connect the library to the project. Specify the library name and version in the configuration file for your chosen assembly tool.
 
-For projects developed on [project-stub](https://ru.bem.info/tutorials/project-stub/), the library is enabled by default.
+For projects developed on [project-stub](https://en.bem.info/tutorials/project-stub/), the library is enabled by default.
 
 <a name="supply"></a>
 
@@ -256,7 +256,7 @@ Tests will be run automatically on [Travis](https://travis-ci.org) for each pull
 
 #### Regression tests for layout
 
-[Gemini](https://ru.bem.info/tools/testing/gemini/) is used for layout testing.
+[Gemini](https://en.bem.info/tools/testing/gemini/) is used for layout testing.
 
 Tests for each block are stored in a separate `block-name.gemini.js` file in the `gemini/` directory. Locally, test are executed manually. On Travis, tests are executed automatically. For [Selenium Grid](https://code.google.com/p/selenium/wiki/Grid2), the [SauceLabs](https://saucelabs.com) service is used.
 
@@ -276,7 +276,7 @@ When developing new tests to speed up local execution:
 2.  In the `.gemini.yml` file, change the `gridUrl` option to `http://localhost:4444/`.
 3.  [Run the tests](#run-test).
 
-For more information about using `Gemini` with various backends, read the article [Gemini quick start](https://ru.bem.info/tools/testing/gemini/).
+For more information about using `Gemini` with various backends, read the article [Gemini quick start](https://en.bem.info/tools/testing/gemini/).
 
 **Note:** You need to save screenshots from SauceLabs in the repository. This helps to avoid discrepancies when rendering fonts.
 
