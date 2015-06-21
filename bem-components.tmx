@@ -10897,135 +10897,35 @@
     zIndexGroupLevel : 3
 }<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu>
 <tu>
-	<tuv xml:lang="ru"><seg>BEM Components Library</seg></tuv>
-	<tuv xml:lang="en"><seg>BEM Components Library</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>GitHub Release</seg></tuv>
-	<tuv xml:lang="en"><seg>GitHub Release</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Build Status</seg></tuv>
-	<tuv xml:lang="en"><seg>Build Status</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Coverage Status</seg></tuv>
-	<tuv xml:lang="en"><seg>Coverage Status</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>devDependency Status</seg></tuv>
-	<tuv xml:lang="en"><seg>devDependency Status</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/bem/bem-components/releases" data-url="https://github.com/bem/bem-components/releases"&gt;</bpt><ph id="2">&lt;img src="https://img.shields.io/github/release/bem/bem-components.svg?style=flat" [#$tu3] /&gt;</ph><ept id="1">&lt;/a&gt;</ept><ph id="3">&lt;br /&gt;</ph><bpt id="4">&lt;a href="https://travis-ci.org/bem/bem-components" data-url="https://travis-ci.org/bem/bem-components"&gt;</bpt><ph id="5">&lt;img src="https://img.shields.io/travis/bem/bem-components/v2.svg?style=flat" [#$tu4] /&gt;</ph><ept id="4">&lt;/a&gt;</ept><ph id="6">&lt;br /&gt;</ph><bpt id="7">&lt;a href="https://coveralls.io/r/bem/bem-components?branch=v2" data-url="https://coveralls.io/r/bem/bem-components?branch=v2"&gt;</bpt><ph id="8">&lt;img src="https://img.shields.io/coveralls/bem/bem-components/v2.svg?style=flat" [#$tu5] /&gt;</ph><ept id="7">&lt;/a&gt;</ept><ph id="9">&lt;br /&gt;</ph><bpt id="10">&lt;a href="https://david-dm.org/bem/bem-components#info=devDependencies" data-url="https://david-dm.org/bem/bem-components#info=devDependencies"&gt;</bpt><ph id="11">&lt;img src="https://img.shields.io/david/dev/bem/bem-components.svg?style=flat" [#$tu6] /&gt;</ph><ept id="10">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://github.com/bem/bem-components/releases" data-url="https://github.com/bem/bem-components/releases"&gt;</bpt><ph id="2">&lt;img src="https://img.shields.io/github/release/bem/bem-components.svg?style=flat" [#$tu3] /&gt;</ph><ept id="1">&lt;/a&gt;</ept><ph id="3">&lt;br /&gt;</ph><bpt id="4">&lt;a href="https://travis-ci.org/bem/bem-components" data-url="https://travis-ci.org/bem/bem-components"&gt;</bpt><ph id="5">&lt;img src="https://img.shields.io/travis/bem/bem-components/v2.svg?style=flat" [#$tu4] /&gt;</ph><ept id="4">&lt;/a&gt;</ept><ph id="6">&lt;br /&gt;</ph><bpt id="7">&lt;a href="https://coveralls.io/r/bem/bem-components?branch=v2" data-url="https://coveralls.io/r/bem/bem-components?branch=v2"&gt;</bpt><ph id="8">&lt;img src="https://img.shields.io/coveralls/bem/bem-components/v2.svg?style=flat" [#$tu5] /&gt;</ph><ept id="7">&lt;/a&gt;</ept><ph id="9">&lt;br /&gt;</ph><bpt id="10">&lt;a href="https://david-dm.org/bem/bem-components#info=devDependencies" data-url="https://david-dm.org/bem/bem-components#info=devDependencies"&gt;</bpt><ph id="11">&lt;img src="https://img.shields.io/david/dev/bem/bem-components.svg?style=flat" [#$tu6] /&gt;</ph><ept id="10">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Что это?</seg></tuv>
-	<tuv xml:lang="en"><seg>What is this?</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Библиотека блоков, предоставляющая готовые элементы управления форм и некоторые другие блоки.<ph id="1">&lt;br /&gt;</ph>Содержит абстрагированные от дизайна базовые реализации. Возможно опциональное использование тем.</seg></tuv>
 	<tuv xml:lang="en"><seg>A library of blocks that provides ready-made form controls and some other blocks.
 <ph id="1">&lt;br /&gt;</ph>The library contains base realizations of the blocks that are abstracted from the design. Few optional design themes are available.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#content"&gt;</bpt>Состав<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#content"&gt;</bpt>Structure<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#levels"&gt;</bpt>Уровни<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#levels"&gt;</bpt>Levels<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#blocks"&gt;</bpt>Блоки<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#blocks"&gt;</bpt>Blocks<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#techs"&gt;</bpt>Технологии<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#techs"&gt;</bpt>Technologies<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#tools"&gt;</bpt>Инструменты<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#tools"&gt;</bpt>Tools<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#optimize"&gt;</bpt>Оптимизаторы<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#optimize"&gt;</bpt>Optomizers<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#linters"&gt;</bpt>Линтеры<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#linters"&gt;</bpt>Linters<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#autopref"&gt;</bpt>Автопрефиксер<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#autopref"&gt;</bpt>Autoprefixer<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#usage"&gt;</bpt>Использование<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#usage"&gt;</bpt>Usage<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#supported-browsers"&gt;</bpt>Поддерживаемые браузеры<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#supported-browsers"&gt;</bpt>Supported browsers<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#migration"&gt;</bpt>Миграция<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#migration"&gt;</bpt>Migration<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#changelog"&gt;</bpt>История изменений<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#changelog"&gt;</bpt>Changelog<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#maintain"&gt;</bpt>Команда основной разработки<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#maintain"&gt;</bpt>Maintainers<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#devprinciples"&gt;</bpt>Принципы разработки библиотеки<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#devprinciples"&gt;</bpt>Development principles<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#supply"&gt;</bpt>Варианты поставки библиотеки<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#supply"&gt;</bpt>Delivery cases<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#development"&gt;</bpt>Разработка<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#development"&gt;</bpt>Development<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#working-copy"&gt;</bpt>Рабочая копия<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#working-copy"&gt;</bpt>Working copy<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#how-to-contribute"&gt;</bpt>Внесение изменений<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#how-to-contribute"&gt;</bpt>How to contribute<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#modular-tests"&gt;</bpt>Модульное тестирование<ept id="1">&lt;/a&gt;</ept>
 </seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#modular-tests"&gt;</bpt>Modular testing<ept id="1">&lt;/a&gt;</ept>
 </seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#unit-tests"&gt;</bpt>Юнит-тесты на JavaScript<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#unit-tests"&gt;</bpt>JavaScript unit tests<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#regression-tests"&gt;</bpt>Регрессионное тестирование верстки<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#regression-tests"&gt;</bpt>Regression tests of layout<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#template-tests"&gt;</bpt>Тесты на шаблоны<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#template-tests"&gt;</bpt>Tests for templates<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="content"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="content"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Состав</seg></tuv>
 	<tuv xml:lang="en"><seg>Structure</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="levels"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="levels"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Уровни</seg></tuv>
 	<tuv xml:lang="en"><seg>Levels</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>common.blocks<ept id="1">&lt;/code&gt;</ept> — поддержка всех устройств и браузеров.</seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>common.blocks<ept id="1">&lt;/code&gt;</ept> — support of any devices and browsers.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>desktop.blocks<ept id="1">&lt;/code&gt;</ept> — поддержка всех десктопных браузеров.</seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>desktop.blocks<ept id="1">&lt;/code&gt;</ept> — support of desktop browsers.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>touch.blocks<ept id="1">&lt;/code&gt;</ept> — реализация специфических особенностей для touch-платформ.</seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>touch.blocks<ept id="1">&lt;/code&gt;</ept> — implementation of some touch platforms specifics.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="blocks"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="blocks"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Блоки</seg></tuv>
-	<tuv xml:lang="en"><seg>Blocks</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/attach/attach.ru.md"&gt;</bpt>attach<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/attach/attach.ru.md"&gt;</bpt>attach<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/button/button.ru.md"&gt;</bpt>button<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/button/button.ru.md"&gt;</bpt>button<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/checkbox/checkbox.ru.md"&gt;</bpt>checkbox<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/checkbox/checkbox.ru.md"&gt;</bpt>checkbox<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/checkbox-group/checkbox-group.ru.md"&gt;</bpt>checkbox-group<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/checkbox-group/checkbox-group.ru.md"&gt;</bpt>checkbox-group<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/control/control.ru.md"&gt;</bpt>control<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/control/control.ru.md"&gt;</bpt>control<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/control-group/control-group.ru.md"&gt;</bpt>control-group<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/control-group/control-group.ru.md"&gt;</bpt>control-group<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/dropdown/dropdown.ru.md"&gt;</bpt>dropdown<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/dropdown/dropdown.ru.md"&gt;</bpt>dropdown<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/icon/icon.ru.md"&gt;</bpt>icon<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/icon/icon.ru.md"&gt;</bpt>icon<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/image/image.ru.md"&gt;</bpt>image<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/image/image.ru.md"&gt;</bpt>image<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/input/input.ru.md"&gt;</bpt>input<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/input/input.ru.md"&gt;</bpt>input<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/link/link.ru.md"&gt;</bpt>link<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/link/link.ru.md"&gt;</bpt>link<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/menu/menu.ru.md"&gt;</bpt>menu<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/menu/menu.ru.md"&gt;</bpt>menu<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/menu-item/menu-item.ru.md"&gt;</bpt>menu-item<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/menu-item/menu-item.ru.md"&gt;</bpt>menu-item<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/modal/modal.ru.md"&gt;</bpt>modal<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/modal/modal.ru.md"&gt;</bpt>modal<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/popup/popup.ru.md"&gt;</bpt>popup<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/popup/popup.ru.md"&gt;</bpt>popup<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/progressbar/progressbar.ru.md"&gt;</bpt>progressbar<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/progressbar/progressbar.ru.md"&gt;</bpt>progressbar<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/radio/radio.ru.md"&gt;</bpt>radio<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/radio/radio.ru.md"&gt;</bpt>radio<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/radio-group/radio-group.ru.md"&gt;</bpt>radio-group<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/radio-group/radio-group.ru.md"&gt;</bpt>radio-group<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/select/select.ru.md"&gt;</bpt>select<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/select/select.ru.md"&gt;</bpt>select<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/spin/spin.ru.md"&gt;</bpt>spin<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/spin/spin.ru.md"&gt;</bpt>spin<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/textarea/textarea.ru.md"&gt;</bpt>textarea<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/textarea/textarea.ru.md"&gt;</bpt>textarea<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/z-index-group/z-index-group.ru.md"&gt;</bpt>z-index-group<ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/z-index-group/z-index-group.ru.md"&gt;</bpt>z-index-group<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="techs"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="techs"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Технологии</seg></tuv>
-	<tuv xml:lang="en"><seg>Technologies</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/i-bem/current/i-bem-js/" data-url="https://ru.bem.info/technology/i-bem/current/i-bem-js/"&gt;</bpt>i-bem.js<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/i-bem/current/i-bem-js/" data-url="https://ru.bem.info/technology/i-bem/current/i-bem-js/"&gt;</bpt>i-bem.js<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/modules/" data-url="https://ru.bem.info/tools/bem/modules/"&gt;</bpt>YModules<ept id="1">&lt;/a&gt;</ept></seg></tuv>
@@ -11038,10 +10938,6 @@
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/bemtree/current/bemtree/" data-url="https://ru.bem.info/technology/bemtree/current/bemtree/"&gt;</bpt>BEMTREE<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://learnboost.github.io/stylus/" data-url="https://learnboost.github.io/stylus/"&gt;</bpt>Stylus<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://learnboost.github.io/stylus/" data-url="https://learnboost.github.io/stylus/"&gt;</bpt>Stylus<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="tools"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="tools"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Инструменты</seg></tuv>
-	<tuv xml:lang="en"><seg>Tools</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/borschik/" data-url="https://ru.bem.info/tools/optimizers/borschik/"&gt;</bpt>borschik<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/borschik/" data-url="https://ru.bem.info/tools/optimizers/borschik/"&gt;</bpt>borschik<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" data-url="https://ru.bem.info/tools/bem/bem-tools/"&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept></seg></tuv>
@@ -11074,44 +10970,12 @@
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://github.com/ai/autoprefixer/" data-url="https://github.com/ai/autoprefixer/"&gt;</bpt>Autoprefixer<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Применяется во время сборки для генерации вендорных префиксов для поддерживаемых браузеров на основании конфигурации.</seg></tuv>
 	<tuv xml:lang="en"><seg>Use it to generate vendor prefixes for supported browsers based on the configuration.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="usage"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="usage"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Использование</seg></tuv>
-	<tuv xml:lang="en"><seg>Usage</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Подключить библиотеку в проект можно любым известным вам способом. Например, с помощью <bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" data-url="https://ru.bem.info/tools/bem/bem-tools/"&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept> или <bpt id="2">&lt;a href="http://enb-make.info/" data-url="http://enb-make.info/"&gt;</bpt>ENB<ept id="2">&lt;/a&gt;</ept>. Сделать это можно в конфигурационном файле выбранного вами сборщика.</seg></tuv>
 	<tuv xml:lang="en"><seg>You can use any way you are familiar with to include the library into your project. For example, you can use <bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" data-url="https://ru.bem.info/tools/bem/bem-tools/"&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept> or <bpt id="2">&lt;a href="http://enb-make.info/" data-url="http://enb-make.info/"&gt;</bpt>ENB<ept id="2">&lt;/a&gt;</ept>. To connect the library to your project use the configuration file of the selected building tool.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Если вы используете <bpt id="1">&lt;a href="https://ru.bem.info/tutorials/project-stub/" data-url="https://ru.bem.info/tutorials/project-stub/"&gt;</bpt>project-stub<ept id="1">&lt;/a&gt;</ept> как основу проекта, то подключать библиотеку не нужно. Она подключена в проект по умолчанию.</seg></tuv>
 	<tuv xml:lang="en"><seg>If you use <bpt id="1">&lt;a href="https://ru.bem.info/tutorials/project-stub/" data-url="https://ru.bem.info/tutorials/project-stub/"&gt;</bpt>project-stub<ept id="1">&lt;/a&gt;</ept> to start your project, you do not need to connect the library – it is connected by default.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="supported-browsers"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="supported-browsers"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Поддерживаемые браузеры</seg></tuv>
-	<tuv xml:lang="en"><seg>Supported browsers</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Desktop<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Desktop<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Firefox <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg>Firefox <bpt id="1">&lt;em&gt;</bpt>(the last two stable versions)<ept id="1">&lt;/em&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Chrome <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg>Chrome <bpt id="1">&lt;em&gt;</bpt>(the last two stable versions)<ept id="1">&lt;/em&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Safari <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg>Safari <bpt id="1">&lt;em&gt;</bpt>(the last two stable versions)<ept id="1">&lt;/em&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Yandex <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg>Yandex<bpt id="1">&lt;em&gt;</bpt>(the last two stable versions)<ept id="1">&lt;/em&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Opera 12.6+</seg></tuv>
-	<tuv xml:lang="en"><seg>Opera 12.6+</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Internet Explorer 9+</seg></tuv>
-	<tuv xml:lang="en"><seg>Internet Explorer 9+</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Частичная поддержка Internet Explorer 8 (<bpt id="1">&lt;a href="#ie8"&gt;</bpt>подробнее<ept id="1">&lt;/a&gt;</ept>)</seg></tuv>
 	<tuv xml:lang="en"><seg>Partially supported of Internet Explorer 8 (<bpt id="1">&lt;a href="#ie8"&gt;</bpt>more info<ept id="1">&lt;/a&gt;</ept>)</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Touch<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Touch<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Android 4+</seg></tuv>
-	<tuv xml:lang="en"><seg>Android 4+</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>iOS 5+</seg></tuv>
-	<tuv xml:lang="en"><seg>iOS 5+</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Internet Explorer 10+</seg></tuv>
-	<tuv xml:lang="en"><seg>Internet Explorer 10+</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="ie8"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="ie8"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Поддержка IE8</seg></tuv>
 	<tuv xml:lang="en"><seg>Support IE8</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Для поддержки данного браузера необходимо подключить на страницу <bpt id="1">&lt;code&gt;</bpt>es5-shim<ept id="1">&lt;/code&gt;</ept> и дополнительные файлы стилей с расширением <bpt id="2">&lt;code&gt;</bpt>*.ie.styl<ept id="2">&lt;/code&gt;</ept>. Для этого следует добавить их в сборку (например, <bpt id="3">&lt;a href="https://github.com/bem/bem-components/blob/1f218c8ba10183fda21660e28cfbb280cd8cde54/.enb/make.js#L174" data-url="https://github.com/bem/bem-components/blob/1f218c8ba10183fda21660e28cfbb280cd8cde54/.enb/make.js#L174"&gt;</bpt>так<ept id="3">&lt;/a&gt;</ept>) и в блоке <bpt id="4">&lt;code&gt;</bpt>page<ept id="4">&lt;/code&gt;</ept> добавить условные комментарии как показано ниже:</seg></tuv>
@@ -11180,10 +11044,6 @@
 	<tuv xml:lang="en"><seg>Migration</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Миграция на последующие версии будет описана на отдельной странице.</seg></tuv>
 	<tuv xml:lang="en"><seg>Check the migration details at the Migration page when available.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="maintain"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="maintain"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Команда основной разработки</seg></tuv>
-	<tuv xml:lang="en"><seg>Maintainers</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/veged" data-url="https://github.com/veged"&gt;</bpt>veged<ept id="1">&lt;/a&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://github.com/veged" data-url="https://github.com/veged"&gt;</bpt>veged<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/dfilatov" data-url="https://github.com/dfilatov"&gt;</bpt>dfilatov<ept id="1">&lt;/a&gt;</ept></seg></tuv>
@@ -11226,66 +11086,28 @@
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Platforms support<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>В библиотеке реализована поддержка разных платформ: <bpt id="1">&lt;code&gt;</bpt>desktop<ept id="1">&lt;/code&gt;</ept>, <bpt id="2">&lt;code&gt;</bpt>touch<ept id="2">&lt;/code&gt;</ept> (мобильные + планшеты). При этом блоки разработаны таким образом, чтобы реализация для одной платформы корректно отображалась и правильно себя вела и на другой.</seg></tuv>
 	<tuv xml:lang="en"><seg>The library supports the following platforms: <bpt id="1">&lt;code&gt;</bpt>desktop<ept id="1">&lt;/code&gt;</ept> and <bpt id="2">&lt;code&gt;</bpt>touch<ept id="2">&lt;/code&gt;</ept> (mobile + tablet). All blocks of the library work correct on all available platforms.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="supply"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="supply"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Варианты поставки библиотеки</seg></tuv>
-	<tuv xml:lang="en"><seg>Delivery cases</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Source<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Source<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Для технически идентичных сервисов и проектов, которые используют тот же препроцессор и шаблонизатор, библиотека может поставляться в исходном виде — «source».</seg></tuv>
 	<tuv xml:lang="en"><seg>Used for the technically identical projects that use the same preprocessor and template engine.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Compiled<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Compiled<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Для сервисов и проектов, которые вообще не используют препроцессор или используют, но другой, существует возможность поставки скомпилированной версии библиотеки — «compiled».</seg></tuv>
 	<tuv xml:lang="en"><seg>Used for the projects that use any other preprocessor or do not use it at all.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Library<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Library<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Для возможности подключения библиотеки ссылками на страницу, по аналогии с jQuery или Bootstrap, предоставляется поставка в виде библиотеки — «library».</seg></tuv>
 	<tuv xml:lang="en"><seg>Used for the possibility to connect the library using links (like jQuery or Bootstrap).</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="development"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="development"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Разработка</seg></tuv>
-	<tuv xml:lang="en"><seg>Development</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="working-copy"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="working-copy"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Рабочая копия</seg></tuv>
-	<tuv xml:lang="en"><seg>Working copy</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Получаем исходники:</seg></tuv>
 	<tuv xml:lang="en"><seg>Get the source code:</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ git clone git://github.com/bem/bem-components.git
-$ cd bem-components<ept id="1">&lt;/code&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ git clone git://github.com/bem/bem-components.git
-$ cd bem-components<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Устанавливаем зависимости:</seg></tuv>
 	<tuv xml:lang="en"><seg>Install the dependencies:</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm install<ept id="1">&lt;/code&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm install<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Для последующего запуска локально установленных <bpt id="1">&lt;code&gt;</bpt>enb<ept id="1">&lt;/code&gt;</ept> нам потребуется <bpt id="2">&lt;code&gt;</bpt>export PATH=./node_modules/.bin:$PATH<ept id="2">&lt;/code&gt;</ept> или любой альтернативный способ.</seg></tuv>
 	<tuv xml:lang="en"><seg>You need <bpt id="2">&lt;code&gt;</bpt>export PATH=./node_modules/.bin:$PATH<ept id="2">&lt;/code&gt;</ept> or any alternative way to run locally-installed <bpt id="1">&lt;code&gt;</bpt>enb<ept id="1">&lt;/code&gt;</ept> .</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Устанавливаем зависимые библиотеки:</seg></tuv>
 	<tuv xml:lang="en"><seg>Install all necessary libraries:</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ bower install<ept id="1">&lt;/code&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ bower install<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Собираем примеры и тесты:</seg></tuv>
 	<tuv xml:lang="en"><seg>Build and run tests and examples:</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm run build-all<ept id="1">&lt;/code&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm run build-all<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Запускаем сервер для разработки:</seg></tuv>
 	<tuv xml:lang="en"><seg>Run development server:</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm start
-$ open http://localhost:8080/<ept id="1">&lt;/code&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm start
-$ open http://localhost:8080/<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>NB<ept id="1">&lt;/strong&gt;</ept> Возможность точечной сборки описана в разделе <bpt id="2">&lt;a href="#template-tests"&gt;</bpt>Тесты на шаблоны<ept id="2">&lt;/a&gt;</ept>.</seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>NB<ept id="1">&lt;/strong&gt;</ept> See <bpt id="2">&lt;a href="#template-tests"&gt;</bpt>Tests for templates<ept id="2">&lt;/a&gt;</ept> for information on how to run tests for a specific block.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Проверяем стиль кода:</seg></tuv>
 	<tuv xml:lang="en"><seg>Check the coding style:</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm run lint<ept id="1">&lt;/code&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm run lint<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="how-to-contribute"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="how-to-contribute"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Внесение изменений</seg></tuv>
-	<tuv xml:lang="en"><seg>How to contribute</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/bem/bem-components/issues/new" data-url="https://github.com/bem/bem-components/issues/new"&gt;</bpt>Создать issue<ept id="1">&lt;/a&gt;</ept> с описанием сути изменений.</seg></tuv>
 	<tuv xml:lang="en"><seg>Create an <bpt id="1">&lt;a href="https://github.com/bem/bem-components/issues/new" data-url="https://github.com/bem/bem-components/issues/new"&gt;</bpt>issue<ept id="1">&lt;/a&gt;</ept> with a proper description.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Определить, в какую версию проекта необходимо внести изменения.</seg></tuv>
@@ -11302,22 +11124,12 @@ $ open http://localhost:8080/<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu
 	<tuv xml:lang="en"><seg>Link your pull request with an issue number any way you like. For example, leave a <bpt id="1">&lt;a href="https://github.com/blog/1506-closing-issues-via-pull-requests" data-url="https://github.com/blog/1506-closing-issues-via-pull-requests"&gt;</bpt>comment<ept id="1">&lt;/a&gt;</ept> with the issue number.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Ждать закрытия pull request и issue ;-)</seg></tuv>
 	<tuv xml:lang="en"><seg>Wait for your pull request and the issue closes ;-)</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="modular-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="modular-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Модульное тестирование</seg></tuv>
 	<tuv xml:lang="en"><seg>Modular testing</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="unit-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="unit-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Юнит-тесты на JavaScript</seg></tuv>
-	<tuv xml:lang="en"><seg>JavaScript unit tests</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Чтобы запустить юнит-тесты на JS, используйте команду <bpt id="1">&lt;code&gt;</bpt>npm run test-specs<ept id="1">&lt;/code&gt;</ept>. Кроме того, можно использовать точечную сборку, например, <bpt id="2">&lt;code&gt;</bpt>enb make specs desktop.specs/input<ept id="2">&lt;/code&gt;</ept>.</seg></tuv>
 	<tuv xml:lang="en"><seg>To run JS unit tests use <bpt id="1">&lt;code&gt;</bpt>npm run test-specs<ept id="1">&lt;/code&gt;</ept> command. You may also specify the target, e.g. <bpt id="2">&lt;code&gt;</bpt>enb make specs desktop.specs/input<ept id="2">&lt;/code&gt;</ept>.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Все тесты автоматически запускаются на <bpt id="1">&lt;a href="https://travis-ci.org" data-url="https://travis-ci.org"&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> для каждого pull request'а.</seg></tuv>
 	<tuv xml:lang="en"><seg>All tests will be run automatically using <bpt id="1">&lt;a href="https://travis-ci.org" data-url="https://travis-ci.org"&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> on each pull request.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="regression-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="regression-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Регрессионное тестирование верстки</seg></tuv>
-	<tuv xml:lang="en"><seg>Regression tests of layout</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Для тестирования верстки мы используем <bpt id="1">&lt;a href="https://ru.bem.info/tools/testing/gemini/" data-url="https://ru.bem.info/tools/testing/gemini/"&gt;</bpt>Gemini<ept id="1">&lt;/a&gt;</ept>.</seg></tuv>
 	<tuv xml:lang="en"><seg>We use <bpt id="1">&lt;a href="https://ru.bem.info/tools/testing/gemini/" data-url="https://ru.bem.info/tools/testing/gemini/"&gt;</bpt>Gemini<ept id="1">&lt;/a&gt;</ept> for layout testing.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Тесты каждого блока находятся в отдельном файле вида <bpt id="1">&lt;code&gt;</bpt>block-name.gemini.js<ept id="1">&lt;/code&gt;</ept> в директории <bpt id="2">&lt;code&gt;</bpt>gemini/<ept id="2">&lt;/code&gt;</ept>. Локально тесты запускаются руками, тесты на Travis запускаются автоматически. В качестве <bpt id="3">&lt;a href="https://code.google.com/p/selenium/wiki/Grid2" data-url="https://code.google.com/p/selenium/wiki/Grid2"&gt;</bpt>Selenium Grid<ept id="3">&lt;/a&gt;</ept> мы используем сервис <bpt id="4">&lt;a href="https://saucelabs.com" data-url="https://saucelabs.com"&gt;</bpt>SauceLabs<ept id="4">&lt;/a&gt;</ept>.</seg></tuv>
@@ -11326,12 +11138,8 @@ $ open http://localhost:8080/<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu
 	<tuv xml:lang="en"><seg>You will need <bpt id="1">&lt;a href="https://saucelabs.com/opensauce" data-url="https://saucelabs.com/opensauce"&gt;</bpt>OpenSauce<ept id="1">&lt;/a&gt;</ept>, a SauceLab account and <bpt id="2">&lt;a href="https://saucelabs.com/connect" data-url="https://saucelabs.com/connect"&gt;</bpt>SauceConnect<ept id="2">&lt;/a&gt;</ept> utility to run the tests locally. Developers of BEM team could use <bpt id="3">&lt;code&gt;</bpt>bem-components<ept id="3">&lt;/code&gt;</ept> account (we do not publish login and password because of the limit for three concurrent browsers launch; it is much more efficiently to use different free accounts for manual testing).</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="run-test"&gt;</bpt><ept id="1">&lt;/a&gt;</ept><ph id="2">&lt;br /&gt;</ph>Для запуска тестов:</seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="run-test"&gt;</bpt><ept id="1">&lt;/a&gt;</ept><ph id="2">&lt;br /&gt;</ph>For tests execution you need the following:</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Настройте окружение (переменные среды <bpt id="1">&lt;code&gt;</bpt>SAUCE_USERNAME<ept id="1">&lt;/code&gt;</ept> и <bpt id="2">&lt;code&gt;</bpt>SAUCE_ACCESS_KEY<ept id="2">&lt;/code&gt;</ept>).</seg></tuv>
-	<tuv xml:lang="en"><seg>Set up environment variables (<bpt id="1">&lt;code&gt;</bpt>SAUCE_USERNAME<ept id="1">&lt;/code&gt;</ept> and <bpt id="2">&lt;code&gt;</bpt>SAUCE_ACCESS_KEY<ept id="2">&lt;/code&gt;</ept>).</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Запустите утилиту <bpt id="1">&lt;code&gt;</bpt>sc<ept id="1">&lt;/code&gt;</ept> (SauceConnect) и дождитесь, пока она поднимет туннель.</seg></tuv>
 	<tuv xml:lang="en"><seg>Run the <bpt id="1">&lt;code&gt;</bpt>sc<ept id="1">&lt;/code&gt;</ept> utility (SauceConnect) and wait for a tunnel initialization.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Запустите тесты командой <bpt id="1">&lt;code&gt;</bpt>npm run gemini<ept id="1">&lt;/code&gt;</ept>.</seg></tuv>
-	<tuv xml:lang="en"><seg>Run the tests using <bpt id="1">&lt;code&gt;</bpt>npm run gemini<ept id="1">&lt;/code&gt;</ept>.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Для сбора новых версий скриншотов используйте команду <bpt id="1">&lt;code&gt;</bpt>npm run gemini-gather<ept id="1">&lt;/code&gt;</ept>.</seg></tuv>
 	<tuv xml:lang="en"><seg>To collect new versions of the screenshots use <bpt id="1">&lt;code&gt;</bpt>npm run gemini-gather<ept id="1">&lt;/code&gt;</ept>.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Если вы разрабатываете новые тесты и хотите их запускать локально и быстрее, можно поднять свой собственный Selenium Server или phantomjs с WebDriver сервером. Для этого нужно:</seg></tuv>
@@ -11346,24 +11154,442 @@ $ open http://localhost:8080/<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu
 	<tuv xml:lang="en"><seg>Read the <bpt id="2">&lt;a href="https://ru.bem.info/tools/testing/gemini/" data-url="https://ru.bem.info/tools/testing/gemini/"&gt;</bpt>Introducing Gemini<ept id="2">&lt;/a&gt;</ept>  article for more details on how <bpt id="1">&lt;code&gt;</bpt>Gemini<ept id="1">&lt;/code&gt;</ept>  works with different types of backends.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>NB<ept id="1">&lt;/strong&gt;</ept> В репозиторий необходимо коммитить скриншоты, собранные в SauceLabs. Это позволит избежать даже незначительных отличий в отрисовке шрифтов.</seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>NB<ept id="1">&lt;/strong&gt;</ept> You have to commit screenshots to the repository from SauceLabs to avoid minor differences in fonts rendering.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Перед коммитом новых или измененных эталонных изображений необходимо:</seg></tuv>
-	<tuv xml:lang="en"><seg>Before commit some new or modified pattern you have to:</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Внимательно проверить корректнотсь изображения. Если есть сомнения, используйте утилиту Araxis Merge или аналогичную, чтобы увидеть разницу между старой и новой версиями.</seg></tuv>
 	<tuv xml:lang="en"><seg>Check the validity. If in doubt, use Araxis Merge utility or something like this to see the difference between two versions of the pattern.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Сожмите изображения утилитой <bpt id="1">&lt;a href="http://imageoptim.com/" data-url="http://imageoptim.com/"&gt;</bpt>ImageOptim<ept id="1">&lt;/a&gt;</ept> (это самый эффективный инструмент сжатия изображений на май 2014 года).</seg></tuv>
 	<tuv xml:lang="en"><seg>Compress them using the <bpt id="1">&lt;a href="http://imageoptim.com/" data-url="http://imageoptim.com/"&gt;</bpt>ImageOptim<ept id="1">&lt;/a&gt;</ept>utility (this is the most effective tool for images compression for May 2014).</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="template-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
-	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="template-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Тесты на шаблоны</seg></tuv>
-	<tuv xml:lang="en"><seg>Tests for templates</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Инструменты сборки библиотеки позволяют собирать и запускать тесты на BEMHTML- и BH-шаблоны блоков.</seg></tuv>
-	<tuv xml:lang="en"><seg>Build tools for the library allow you to build and run tests on BEMHTML and BH block templates.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Чтобы добавить тест для блока, нужно в его директории на требуемом уровне переопределения создать<ph id="1">&lt;br /&gt;</ph>каталог с названием <bpt id="2">&lt;code&gt;</bpt>[имя блока].tmpl-specs<ept id="2">&lt;/code&gt;</ept>. Здесь будут храниться файлы тестов.</seg></tuv>
 	<tuv xml:lang="en"><seg>To add a test for a block, you need to add a directory<ph id="1">&lt;br /&gt;</ph>named <bpt id="2">&lt;code&gt;</bpt>[block name].tmpl-specs<ept id="2">&lt;/code&gt;</ept> on your definition level. All test files will be stored in it.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Каждый тест состоит из пары файлов в технологиях BEMJSON и HTML. Тестов и, соответственно, пар файлов у блока может быть несколько. Имена файлов произвольные, но они (не включая расширения) для каждого<ph id="1">&lt;br /&gt;</ph>теста должны совпадать. Например, <bpt id="2">&lt;strong&gt;</bpt>10-default<ept id="2">&lt;/strong&gt;</ept>.bemjson.js и <bpt id="3">&lt;strong&gt;</bpt>10-default<ept id="3">&lt;/strong&gt;</ept>.html.</seg></tuv>
 	<tuv xml:lang="en"><seg>Each test consists of a pair of files implemented in following technologies: BEMJSON and HTML. Each block could have more then one pair of such files.<ph id="1">&lt;br /&gt;</ph>You could give any name to the file. But the file names (without extensions) within the one pair for one test must coincide. For example, <bpt id="2">&lt;strong&gt;</bpt>10-default<ept id="2">&lt;/strong&gt;</ept>.bemjson.js and <bpt id="3">&lt;strong&gt;</bpt>10-default<ept id="3">&lt;/strong&gt;</ept>.html.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>В BEMJSON-файле находится пример для блока, в HTML-файле – эталонный HTML-код, который должен<ph id="1">&lt;br /&gt;</ph>получиться после применения шаблона блока к BEMJSON-у примера.</seg></tuv>
 	<tuv xml:lang="en"><seg>For each block BEMJSON file contains an example for a block,<ph id="1">&lt;br /&gt;</ph>while HTML file contains standard HTML code – a block sample which is a block implementation result that becomes available after applying a template to the BEMJSON example.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Все тесты автоматически запускаются на <bpt id="1">&lt;a href="https://travis-ci.org" data-url="https://travis-ci.org"&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> для каждого pull request'a.</seg></tuv>
+	<tuv xml:lang="en"><seg>All tests will be run automatically using <bpt id="1">&lt;a href="https://travis-ci.org" data-url="https://travis-ci.org"&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> on each pull request.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>BEM Components Library</seg></tuv>
+	<tuv xml:lang="en"><seg>BEM Components Library</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://github.com/bem/bem-components/releases</seg></tuv>
+	<tuv xml:lang="en"><seg>https://github.com/bem/bem-components/releases</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>GitHub Release</seg></tuv>
+	<tuv xml:lang="en"><seg>GitHub Release</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://travis-ci.org/bem/bem-components</seg></tuv>
+	<tuv xml:lang="en"><seg>https://travis-ci.org/bem/bem-components</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Build Status</seg></tuv>
+	<tuv xml:lang="en"><seg>Build Status</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://coveralls.io/r/bem/bem-components?branch=v2</seg></tuv>
+	<tuv xml:lang="en"><seg>https://coveralls.io/r/bem/bem-components?branch=v2</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Coverage Status</seg></tuv>
+	<tuv xml:lang="en"><seg>Coverage Status</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://david-dm.org/bem/bem-components#info=devDependencies</seg></tuv>
+	<tuv xml:lang="en"><seg>https://david-dm.org/bem/bem-components#info=devDependencies</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>devDependency Status</seg></tuv>
+	<tuv xml:lang="en"><seg>devDependency Status</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/bem/bem-components/releases" [#$tu3]&gt;</bpt><ph id="2">&lt;img src="https://img.shields.io/github/release/bem/bem-components.svg?style=flat" [#$tu4] /&gt;</ph><ept id="1">&lt;/a&gt;</ept><ph id="3">&lt;br /&gt;</ph><bpt id="4">&lt;a href="https://travis-ci.org/bem/bem-components" [#$tu5]&gt;</bpt><ph id="5">&lt;img src="https://img.shields.io/travis/bem/bem-components/v2.svg?style=flat" [#$tu6] /&gt;</ph><ept id="4">&lt;/a&gt;</ept><ph id="6">&lt;br /&gt;</ph><bpt id="7">&lt;a href="https://coveralls.io/r/bem/bem-components?branch=v2" [#$tu7]&gt;</bpt><ph id="8">&lt;img src="https://img.shields.io/coveralls/bem/bem-components/v2.svg?style=flat" [#$tu8] /&gt;</ph><ept id="7">&lt;/a&gt;</ept><ph id="9">&lt;br /&gt;</ph><bpt id="10">&lt;a href="https://david-dm.org/bem/bem-components#info=devDependencies" [#$tu9]&gt;</bpt><ph id="11">&lt;img src="https://img.shields.io/david/dev/bem/bem-components.svg?style=flat" [#$tu10] /&gt;</ph><ept id="10">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://github.com/bem/bem-components/releases" [#$tu3]&gt;</bpt><ph id="2">&lt;img src="https://img.shields.io/github/release/bem/bem-components.svg?style=flat" [#$tu4] /&gt;</ph><ept id="1">&lt;/a&gt;</ept><ph id="3">&lt;br /&gt;</ph><bpt id="4">&lt;a href="https://travis-ci.org/bem/bem-components" [#$tu5]&gt;</bpt><ph id="5">&lt;img src="https://img.shields.io/travis/bem/bem-components/v2.svg?style=flat" [#$tu6] /&gt;</ph><ept id="4">&lt;/a&gt;</ept><ph id="6">&lt;br /&gt;</ph><bpt id="7">&lt;a href="https://coveralls.io/r/bem/bem-components?branch=v2" [#$tu7]&gt;</bpt><ph id="8">&lt;img src="https://img.shields.io/coveralls/bem/bem-components/v2.svg?style=flat" [#$tu8] /&gt;</ph><ept id="7">&lt;/a&gt;</ept><ph id="9">&lt;br /&gt;</ph><bpt id="10">&lt;a href="https://david-dm.org/bem/bem-components#info=devDependencies" [#$tu9]&gt;</bpt><ph id="11">&lt;img src="https://img.shields.io/david/dev/bem/bem-components.svg?style=flat" [#$tu10] /&gt;</ph><ept id="10">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Что это?</seg></tuv>
+	<tuv xml:lang="en"><seg>What is this?</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Библиотека с открытым кодом, которая предоставляет набор готовых визуальных компонентов (блоков) для создания веб-интерфейсов.</seg></tuv>
+	<tuv xml:lang="en"><seg>BEM is an open-source library that provides a set of ready-made visual components (blocks) for creating web interfaces.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Библиотека предоставляет темы оформления. В данной версии представлена тема islands, реализующая новый дизайн Яндекса. Предусмотрена одновременная поддержка нескольких тем и возможность создания новых.</seg></tuv>
+	<tuv xml:lang="en"><seg>The library provides design themes. This version introduces the "islands" theme, which implements the new Yandex design. Features include supporting multiple themes at once, and creating new themes.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Содержание</seg></tuv>
+	<tuv xml:lang="en"><seg>Contents</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#levels"&gt;</bpt>Уровни<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#levels"&gt;</bpt>Levels<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#blocks"&gt;</bpt>Блоки<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#blocks"&gt;</bpt>Blocks<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#supported-browsers"&gt;</bpt>Поддерживаемые браузеры<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#supported-browsers"&gt;</bpt>Supported browsers<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#techs"&gt;</bpt>Технологии<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#techs"&gt;</bpt>Technologies<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#tools"&gt;</bpt>Инструменты<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#tools"&gt;</bpt>Tools<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#usage"&gt;</bpt>Использование<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#usage"&gt;</bpt>Usage<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#supply"&gt;</bpt>Варианты поставки библиотеки<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#supply"&gt;</bpt>Library distributions<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#development"&gt;</bpt>Разработка<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#development"&gt;</bpt>Development<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#maintain"&gt;</bpt>Команда основной разработки<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#maintain"&gt;</bpt>Maintainers<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#workflow"&gt;</bpt>Рабочий процесс<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#workflow"&gt;</bpt>Workflow<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Дополнительная информация<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Additional information<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="/CHANGELOG.ru.md"&gt;</bpt>История изменений<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="/CHANGELOG.ru.md"&gt;</bpt>Changelog<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="/MIGRATION.ru.md"&gt;</bpt>Миграция на последующие версии<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="/MIGRATION.ru.md"&gt;</bpt>Migration to future versions<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="levels"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="levels"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Уровни переопределения</seg></tuv>
+	<tuv xml:lang="en"><seg>Levels</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>common.blocks<ept id="1">&lt;/code&gt;</ept> — поддержка всех устройств и браузеров.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>common.blocks<ept id="1">&lt;/code&gt;</ept> — support of any devices and browsers.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>desktop.blocks<ept id="1">&lt;/code&gt;</ept> — поддержка всех десктопных браузеров.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>desktop.blocks<ept id="1">&lt;/code&gt;</ept> — support of desktop browsers.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>touch.blocks<ept id="1">&lt;/code&gt;</ept> — реализация специфических особенностей для touch-платформ.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>touch.blocks<ept id="1">&lt;/code&gt;</ept> — implementation of specific features for touch platforms.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>touch-phone.blocks<ept id="1">&lt;/code&gt;</ept> — реализация специфических особенностей для смартфонов.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>touch-phone.blocks<ept id="1">&lt;/code&gt;</ept> — implementation of specific features for smartphones.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>touch-pad.blocks<ept id="1">&lt;/code&gt;</ept> — реализация специфических особенностей для планшетов.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>touch-pad.blocks<ept id="1">&lt;/code&gt;</ept> — implementation of specific features for tablets.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>design/&lt;common|desktop|touch|touch-phone|touch-pad&gt;.blocks<ept id="1">&lt;/code&gt;</ept> — реализация различных дизайнов (тем).</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>design/&lt;common|desktop|touch|touch-phone|touch-pad&gt;.blocks<ept id="1">&lt;/code&gt;</ept> — implementation of various designs (themes).</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="blocks"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="blocks"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Блоки</seg></tuv>
+	<tuv xml:lang="en"><seg>Blocks</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/attach/attach.ru.md"&gt;</bpt>attach<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/attach/attach.ru.md"&gt;</bpt>attach<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/button/button.ru.md"&gt;</bpt>button<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/button/button.ru.md"&gt;</bpt>button<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/checkbox/checkbox.ru.md"&gt;</bpt>checkbox<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/checkbox/checkbox.ru.md"&gt;</bpt>checkbox<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/checkbox-group/checkbox-group.ru.md"&gt;</bpt>checkbox-group<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/checkbox-group/checkbox-group.ru.md"&gt;</bpt>checkbox-group<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/control/control.ru.md"&gt;</bpt>control<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/control/control.ru.md"&gt;</bpt>control<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/control-group/control-group.ru.md"&gt;</bpt>control-group<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/control-group/control-group.ru.md"&gt;</bpt>control-group<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/dropdown/dropdown.ru.md"&gt;</bpt>dropdown<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/dropdown/dropdown.ru.md"&gt;</bpt>dropdown<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/icon/icon.ru.md"&gt;</bpt>icon<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/icon/icon.ru.md"&gt;</bpt>icon<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/image/image.ru.md"&gt;</bpt>image<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/image/image.ru.md"&gt;</bpt>image<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/input/input.ru.md"&gt;</bpt>input<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/input/input.ru.md"&gt;</bpt>input<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/link/link.ru.md"&gt;</bpt>link<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/link/link.ru.md"&gt;</bpt>link<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/menu/menu.ru.md"&gt;</bpt>menu<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/menu/menu.ru.md"&gt;</bpt>menu<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/menu-item/menu-item.ru.md"&gt;</bpt>menu-item<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/menu-item/menu-item.ru.md"&gt;</bpt>menu-item<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/modal/modal.ru.md"&gt;</bpt>modal<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/modal/modal.ru.md"&gt;</bpt>modal<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/popup/popup.ru.md"&gt;</bpt>popup<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/popup/popup.ru.md"&gt;</bpt>popup<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/progressbar/progressbar.ru.md"&gt;</bpt>progressbar<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/progressbar/progressbar.ru.md"&gt;</bpt>progressbar<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/radio/radio.ru.md"&gt;</bpt>radio<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/radio/radio.ru.md"&gt;</bpt>radio<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/radio-group/radio-group.ru.md"&gt;</bpt>radio-group<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/radio-group/radio-group.ru.md"&gt;</bpt>radio-group<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/select/select.ru.md"&gt;</bpt>select<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/select/select.ru.md"&gt;</bpt>select<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/spin/spin.ru.md"&gt;</bpt>spin<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/spin/spin.ru.md"&gt;</bpt>spin<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/textarea/textarea.ru.md"&gt;</bpt>textarea<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/textarea/textarea.ru.md"&gt;</bpt>textarea<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="common.blocks/z-index-group/z-index-group.ru.md"&gt;</bpt>z-index-group<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="common.blocks/z-index-group/z-index-group.ru.md"&gt;</bpt>z-index-group<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="supported-browsers"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="supported-browsers"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Поддерживаемые браузеры</seg></tuv>
+	<tuv xml:lang="en"><seg>Supported browsers</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Desktop<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Desktop<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Firefox <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg>Firefox <bpt id="1">&lt;em&gt;</bpt>(the last two stable versions)<ept id="1">&lt;/em&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Chrome <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg>Chrome <bpt id="1">&lt;em&gt;</bpt>(the last two stable versions)<ept id="1">&lt;/em&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Safari <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg>Safari <bpt id="1">&lt;em&gt;</bpt>(the last two stable versions)<ept id="1">&lt;/em&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Yandex <bpt id="1">&lt;em&gt;</bpt>(две последние стабильные версии)<ept id="1">&lt;/em&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg>Yandex<bpt id="1">&lt;em&gt;</bpt>(the last two stable versions)<ept id="1">&lt;/em&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Opera 12.6+</seg></tuv>
+	<tuv xml:lang="en"><seg>Opera 12.6+</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Internet Explorer 9+</seg></tuv>
+	<tuv xml:lang="en"><seg>Internet Explorer 9+</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="#ie8"&gt;</bpt>Частичная поддержка<ept id="1">&lt;/a&gt;</ept> Internet Explorer 8</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="#ie8"&gt;</bpt>Partial support<ept id="1">&lt;/a&gt;</ept> for Internet Explorer 8</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Touch<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Touch<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Android 4+</seg></tuv>
+	<tuv xml:lang="en"><seg>Android 4+</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>iOS 5+</seg></tuv>
+	<tuv xml:lang="en"><seg>iOS 5+</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Internet Explorer 10+</seg></tuv>
+	<tuv xml:lang="en"><seg>Internet Explorer 10+</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="ie8"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="ie8"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Поддержка Internet Explorer 8</seg></tuv>
+	<tuv xml:lang="en"><seg>Support for Internet Explorer 8</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Для поддержки Internet Explorer 8 подключите на страницу:</seg></tuv>
+	<tuv xml:lang="en"><seg>To support Internet Explorer 8, you must add</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://www.npmjs.com/package/es5-shim</seg></tuv>
+	<tuv xml:lang="en"><seg>https://www.npmjs.com/package/es5-shim</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://www.npmjs.com/package/es5-shim" [#$tu80]&gt;</bpt>es5-shim<ept id="1">&lt;/a&gt;</ept>;</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://www.npmjs.com/package/es5-shim" [#$tu80]&gt;</bpt>es5-shim<ept id="1">&lt;/a&gt;</ept>;</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://github.com/bem/bem-components/blob/1f218c8ba10183fda21660e28cfbb280cd8cde54/.enb/make.js#L174</seg></tuv>
+	<tuv xml:lang="en"><seg>https://github.com/bem/bem-components/blob/1f218c8ba10183fda21660e28cfbb280cd8cde54/.enb/make.js#L174</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://gist.github.com/innabelaya/904ab01666fd1a19d312</seg></tuv>
+	<tuv xml:lang="en"><seg>https://gist.github.com/innabelaya/904ab01666fd1a19d312</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>файлы стилей с расширением <bpt id="1">&lt;code&gt;</bpt>*.ie.styl<ept id="1">&lt;/code&gt;</ept>. Для этого укажите их в сборке (<bpt id="2">&lt;a href="https://github.com/bem/bem-components/blob/1f218c8ba10183fda21660e28cfbb280cd8cde54/.enb/make.js#L174" [#$tu82]&gt;</bpt>пример<ept id="2">&lt;/a&gt;</ept>) и добавьте условные комментарии в блоке <bpt id="3">&lt;code&gt;</bpt>page<ept id="3">&lt;/code&gt;</ept> (<bpt id="4">&lt;a href="https://gist.github.com/innabelaya/904ab01666fd1a19d312" [#$tu83]&gt;</bpt>пример<ept id="4">&lt;/a&gt;</ept>). Подключить стили для Internet Explorer 8 можно также на уровне шаблонов.</seg></tuv>
+	<tuv xml:lang="en"><seg>style files with the <bpt id="1">&lt;code&gt;</bpt>*.ie.styl<ept id="1">&lt;/code&gt;</ept> extension to the page. To do this, specify them in the build config (see this <bpt id="2">&lt;a href="https://github.com/bem/bem-components/blob/1f218c8ba10183fda21660e28cfbb280cd8cde54/.enb/make.js#L174" [#$tu82]&gt;</bpt>example<ept id="2">&lt;/a&gt;</ept>) and add comments in the <bpt id="3">&lt;code&gt;</bpt>page<ept id="3">&lt;/code&gt;</ept> section (see this <bpt id="4">&lt;a href="https://gist.github.com/innabelaya/904ab01666fd1a19d312" [#$tu83]&gt;</bpt>example<ept id="4">&lt;/a&gt;</ept>). You can also enable styles for Internet Explorer 8 at the template level.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="techs"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="techs"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Технологии</seg></tuv>
+	<tuv xml:lang="en"><seg>Technologies</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://ru.bem.info/tools/bem/modules/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://ru.bem.info/tools/bem/modules/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/modules/" [#$tu87]&gt;</bpt>YModules<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/modules/" [#$tu87]&gt;</bpt>YModules<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://ru.bem.info/technology/i-bem/current/i-bem-js/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://ru.bem.info/technology/i-bem/current/i-bem-js/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/i-bem/current/i-bem-js/" [#$tu89]&gt;</bpt>i-bem.js<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/i-bem/current/i-bem-js/" [#$tu89]&gt;</bpt>i-bem.js<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://ru.bem.info/technology/bemhtml/current/reference/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://ru.bem.info/technology/bemhtml/current/reference/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/bemhtml/current/reference/" [#$tu91]&gt;</bpt>BEMHTML<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/bemhtml/current/reference/" [#$tu91]&gt;</bpt>BEMHTML<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://ru.bem.info/technology/bh/current/about/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://ru.bem.info/technology/bh/current/about/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/bh/current/about/" [#$tu93]&gt;</bpt>BH<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/bh/current/about/" [#$tu93]&gt;</bpt>BH<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://ru.bem.info/technology/deps/about/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://ru.bem.info/technology/deps/about/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/deps/about/" [#$tu95]&gt;</bpt>DEPS<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/technology/deps/about/" [#$tu95]&gt;</bpt>DEPS<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://learnboost.github.io/stylus/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://learnboost.github.io/stylus/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://learnboost.github.io/stylus/" [#$tu97]&gt;</bpt>Stylus<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://learnboost.github.io/stylus/" [#$tu97]&gt;</bpt>Stylus<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="tools"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="tools"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Инструменты</seg></tuv>
+	<tuv xml:lang="en"><seg>Tools</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Сборщики<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Assemblers<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" [#$tu102]&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" [#$tu102]&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="http://enb-make.info/" [#$tu104]&gt;</bpt>ENB<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="http://enb-make.info/" [#$tu104]&gt;</bpt>ENB<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://ru.bem.info/tools/optimizers/borschik/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://ru.bem.info/tools/optimizers/borschik/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/borschik/" [#$tu106]&gt;</bpt>borschik<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/borschik/" [#$tu106]&gt;</bpt>borschik<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Оптимизаторы<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Optimizers<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://ru.bem.info/tools/optimizers/svgo/svgo/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://ru.bem.info/tools/optimizers/svgo/svgo/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/svgo/svgo/" [#$tu109]&gt;</bpt>SVGO<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/optimizers/svgo/svgo/" [#$tu109]&gt;</bpt>SVGO<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>http://www.cleancss.com/about.php</seg></tuv>
+	<tuv xml:lang="en"><seg>http://www.cleancss.com/about.php</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="http://www.cleancss.com/about.php" [#$tu111]&gt;</bpt>CleanCSS<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="http://www.cleancss.com/about.php" [#$tu111]&gt;</bpt>CleanCSS<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="http://imageoptim.com/" [#$tu113]&gt;</bpt>ImageOptim<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="http://imageoptim.com/" [#$tu113]&gt;</bpt>ImageOptim<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Проверка кода<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Code analysis<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>http://www.jshint.com/</seg></tuv>
+	<tuv xml:lang="en"><seg>http://www.jshint.com/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="http://www.jshint.com/" [#$tu116]&gt;</bpt>jshint<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="http://www.jshint.com/" [#$tu116]&gt;</bpt>jshint<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://github.com/jscs-dev/node-jscs</seg></tuv>
+	<tuv xml:lang="en"><seg>https://github.com/jscs-dev/node-jscs</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/jscs-dev/node-jscs" [#$tu118]&gt;</bpt>jscs<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://github.com/jscs-dev/node-jscs" [#$tu118]&gt;</bpt>jscs<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Прочее<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Other<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://github.com/ai/autoprefixer/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://github.com/ai/autoprefixer/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/ai/autoprefixer/" [#$tu121]&gt;</bpt>Autoprefixer<ept id="1">&lt;/a&gt;</ept> — применяется во время сборки для генерации вендорных префиксов для поддерживаемых браузеров на основании конфигурации.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://github.com/ai/autoprefixer/" [#$tu121]&gt;</bpt>Autoprefixer<ept id="1">&lt;/a&gt;</ept> — used during assembly to generate vendor prefixes for supported browsers based on the configuration.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="usage"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="usage"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Использование</seg></tuv>
+	<tuv xml:lang="en"><seg>Usage</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://ru.bem.info/tools/bem/bem-tools/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://ru.bem.info/tools/bem/bem-tools/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>http://enb-make.info/</seg></tuv>
+	<tuv xml:lang="en"><seg>http://enb-make.info/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Библиотека в проект подключается с помощью <bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" [#$tu125]&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept> или <bpt id="2">&lt;a href="http://enb-make.info/" [#$tu126]&gt;</bpt>ENB<ept id="2">&lt;/a&gt;</ept>. Укажите название и версию библиотеки в конфигурационном файле выбранного вами сборщика.</seg></tuv>
+	<tuv xml:lang="en"><seg>Use <bpt id="1">&lt;a href="https://ru.bem.info/tools/bem/bem-tools/" [#$tu125]&gt;</bpt>bem-tools<ept id="1">&lt;/a&gt;</ept> or <bpt id="2">&lt;a href="http://enb-make.info/" [#$tu126]&gt;</bpt>ENB<ept id="2">&lt;/a&gt;</ept> to connect the library to the project. Specify the library name and version in the configuration file for your chosen assembly tool.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://ru.bem.info/tutorials/project-stub/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://ru.bem.info/tutorials/project-stub/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>При разработке проекта на основе <bpt id="1">&lt;a href="https://ru.bem.info/tutorials/project-stub/" [#$tu128]&gt;</bpt>project-stub<ept id="1">&lt;/a&gt;</ept> библиотека подключена по умолчанию.</seg></tuv>
+	<tuv xml:lang="en"><seg>For projects developed on <bpt id="1">&lt;a href="https://ru.bem.info/tutorials/project-stub/" [#$tu128]&gt;</bpt>project-stub<ept id="1">&lt;/a&gt;</ept>, the library is enabled by default.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="supply"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="supply"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Варианты поставки библиотеки</seg></tuv>
+	<tuv xml:lang="en"><seg>Library distributions</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Source<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Source<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Для технически идентичных сервисов и проектов, которые используют препроцессор и шаблонизатор, указанные в разделе <bpt id="1">&lt;a href="#tools"&gt;</bpt>Инструменты<ept id="1">&lt;/a&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>For technically identical services and projects that use a preprocessor and template engine listed in the <bpt id="1">&lt;a href="#tools"&gt;</bpt>Tools<ept id="1">&lt;/a&gt;</ept> section.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Compiled<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Compiled<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Для сервисов и проектов, которые не используют препроцессор или используют отличный от указанного в разделе <bpt id="1">&lt;a href="#tools"&gt;</bpt>Инструменты<ept id="1">&lt;/a&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>For services and projects that do not use a preprocessor or use one that is not listed in the <bpt id="1">&lt;a href="#tools"&gt;</bpt>Tools<ept id="1">&lt;/a&gt;</ept> section.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Library<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Library<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Для возможности подключения библиотеки ссылками на страницу, по аналогии с jQuery или Bootstrap.</seg></tuv>
+	<tuv xml:lang="en"><seg>To include the library by linking to a page, similar to jQuery or Bootstrap.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Для выбора этого варианта поставки необходимо выполнить <bpt id="1">&lt;code&gt;</bpt>npm run dist<ept id="1">&lt;/code&gt;</ept> в корне библиотеки после установки <bpt id="2">&lt;code&gt;</bpt>npm<ept id="2">&lt;/code&gt;</ept>-зависимостей. В результате бандлы сформируются в папке <bpt id="3">&lt;code&gt;</bpt>dist<ept id="3">&lt;/code&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>To choose this method, execute <bpt id="1">&lt;code&gt;</bpt>npm run dist<ept id="1">&lt;/code&gt;</ept> in the library root after setting up <bpt id="2">&lt;code&gt;</bpt>npm<ept id="2">&lt;/code&gt;</ept> dependencies. As a result, bundles are generated in the <bpt id="3">&lt;code&gt;</bpt>dist<ept id="3">&lt;/code&gt;</ept> folder.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="development"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="development"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Разработка</seg></tuv>
+	<tuv xml:lang="en"><seg>Development</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#working-copy"&gt;</bpt>Рабочая копия<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#working-copy"&gt;</bpt>Working copy<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#how-to-contribute"&gt;</bpt>Внесение изменений<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#how-to-contribute"&gt;</bpt>How to contribute<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#modular-tests"&gt;</bpt>Тестирование<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#modular-tests"&gt;</bpt>Testing<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#unit-tests"&gt;</bpt>Юнит-тесты на JavaScript<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#unit-tests"&gt;</bpt>JavaScript unit tests<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#regression-tests"&gt;</bpt>Регрессионное тестирование верстки<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#regression-tests"&gt;</bpt>Regression tests for layout<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" href="#template-tests"&gt;</bpt>Тесты на шаблоны<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" href="#template-tests"&gt;</bpt>Tests for templates<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="working-copy"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="working-copy"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Рабочая копия</seg></tuv>
+	<tuv xml:lang="en"><seg>Working copy</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Получение исходников:</seg></tuv>
+	<tuv xml:lang="en"><seg>Get sources:</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ git clone git://github.com/bem/bem-components.git
+$ cd bem-components<ept id="1">&lt;/code&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ git clone git://github.com/bem/bem-components.git
+$ cd bem-components<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Установка зависимостей (инструментов):</seg></tuv>
+	<tuv xml:lang="en"><seg>Install dependencies (of tools):</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm install<ept id="1">&lt;/code&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm install<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Для последующего запуска локально установленных инструментов потребуется <bpt id="1">&lt;code&gt;</bpt>export PATH=./node_modules/.bin:$PATH<ept id="1">&lt;/code&gt;</ept> или любой альтернативный способ.</seg></tuv>
+	<tuv xml:lang="en"><seg>To then run locally installed tools, use <bpt id="1">&lt;code&gt;</bpt>export PATH=./node_modules/.bin:$PATH<ept id="1">&lt;/code&gt;</ept> or any alternative method.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Установка зависимых библиотек:</seg></tuv>
+	<tuv xml:lang="en"><seg>Install dependent libraries:</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ bower install<ept id="1">&lt;/code&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ bower install<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Сборка примеров и тестов:</seg></tuv>
+	<tuv xml:lang="en"><seg>Build examples and tests:</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm run build-all<ept id="1">&lt;/code&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm run build-all<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Запуск сервера для разработки:</seg></tuv>
+	<tuv xml:lang="en"><seg>Start the development server:</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm start
+$ open http://localhost:8080/<ept id="1">&lt;/code&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm start
+$ open http://localhost:8080/<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>NB<ept id="1">&lt;/strong&gt;</ept> Точечная сборка отдельных блоков описана в разделе <bpt id="2">&lt;a href="#template-tests"&gt;</bpt>Тесты на шаблоны<ept id="2">&lt;/a&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Note:<ept id="1">&lt;/strong&gt;</ept> For information about assembling individual blocks, see the section <bpt id="2">&lt;a href="#template-tests"&gt;</bpt>Tests for templates<ept id="2">&lt;/a&gt;</ept>.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Проверка кода:</seg></tuv>
+	<tuv xml:lang="en"><seg>Code analysis:</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm run lint<ept id="1">&lt;/code&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>$ npm run lint<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="how-to-contribute"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="how-to-contribute"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Внесение изменений</seg></tuv>
+	<tuv xml:lang="en"><seg>How to contribute</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://github.com/bem/bem-components/issues/new</seg></tuv>
+	<tuv xml:lang="en"><seg>https://github.com/bem/bem-components/issues/new</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/bem/bem-components/issues/new" [#$tu165]&gt;</bpt>Создать issue<ept id="1">&lt;/a&gt;</ept> с описанием сути изменений.</seg></tuv>
+	<tuv xml:lang="en"><seg>Create an <bpt id="1">&lt;a href="https://github.com/bem/bem-components/issues/new" [#$tu165]&gt;</bpt>issue<ept id="1">&lt;/a&gt;</ept> with a proper description of changes.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Определить версию библиотеки для внесения изменений.</seg></tuv>
+	<tuv xml:lang="en"><seg>Determine the library version to make changes to.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Создать отдельную ветку с указанием номера issue и версии (<bpt id="1">&lt;code&gt;</bpt>issues/&lt;номер issue&gt;@v&lt;номер версии&gt;<ept id="1">&lt;/code&gt;</ept>) на основе ветки версии.<ph id="2">&lt;br /&gt;</ph>Например, для issue с номером 42 и версией 2: <bpt id="3">&lt;code&gt;</bpt>git checkout -b issues/42@v2<ept id="3">&lt;/code&gt;</ept>. Если изменения вносятся в несколько версий, то для каждой версии создается отдельная ветка.</seg></tuv>
+	<tuv xml:lang="en"><seg>Create a feature branch with the issue number and version (<bpt id="1">&lt;code&gt;</bpt>issues/&lt;issue_number&gt;@v&lt;version_number&gt;<ept id="1">&lt;/code&gt;</ept>) based on a version branch.<ph id="2">&lt;br /&gt;</ph>For example, for issue #42 and version 2: <bpt id="3">&lt;code&gt;</bpt>git checkout -b issues/42@v2<ept id="3">&lt;/code&gt;</ept>. If you are making changes to multiple versions, each of them must have its own feature branch.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Внести изменения. Локально проверить результаты изменений на наличие ошибок можно, запустив <bpt id="1">&lt;code&gt;</bpt>npm test<ept id="1">&lt;/code&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>Make changes. To check the results of your changes locally for errors, run <bpt id="1">&lt;code&gt;</bpt>npm test<ept id="1">&lt;/code&gt;</ept>.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Сделать коммит и отправить изменения в удаленный репозиторий. При необходимости, сделать <bpt id="1">&lt;code&gt;</bpt>rebase<ept id="1">&lt;/code&gt;</ept> от базовой ветки версии.</seg></tuv>
+	<tuv xml:lang="en"><seg>Commit your changes and push them to the remote repository. If necessary, <bpt id="1">&lt;code&gt;</bpt>rebase<ept id="1">&lt;/code&gt;</ept> your branch from the base version branch.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Создать pull request на основе созданной ветки. В случае изменений нескольких версий, создать pull request для каждой версии.</seg></tuv>
+	<tuv xml:lang="en"><seg>Create a pull request from your feature branch. If you changed multiple versions, create a pull request for each version.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://github.com/blog/1506-closing-issues-via-pull-requests</seg></tuv>
+	<tuv xml:lang="en"><seg>https://github.com/blog/1506-closing-issues-via-pull-requests</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Связать pull request и issue (например, c помощью <bpt id="1">&lt;a href="https://github.com/blog/1506-closing-issues-via-pull-requests" [#$tu172]&gt;</bpt>комментария<ept id="1">&lt;/a&gt;</ept>).</seg></tuv>
+	<tuv xml:lang="en"><seg>Link your pull request with an issue number (for example, leave a <bpt id="1">&lt;a href="https://github.com/blog/1506-closing-issues-via-pull-requests" [#$tu172]&gt;</bpt>comment<ept id="1">&lt;/a&gt;</ept> with the issue number).</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Ждать принятия pull request и закрытия issue.</seg></tuv>
+	<tuv xml:lang="en"><seg>Wait for the pull request to be accepted and the issue to be closed.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="modular-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="modular-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Тестирование</seg></tuv>
+	<tuv xml:lang="en"><seg>Testing</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="unit-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="unit-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Юнит-тесты на JavaScript</seg></tuv>
+	<tuv xml:lang="en"><seg>JavaScript unit tests</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Команда <bpt id="1">&lt;code&gt;</bpt>npm run test-specs<ept id="1">&lt;/code&gt;</ept> запускает юнит-тесты на JS.</seg></tuv>
+	<tuv xml:lang="en"><seg>The <bpt id="1">&lt;code&gt;</bpt>npm run test-specs<ept id="1">&lt;/code&gt;</ept> command launches unit tests on JS.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Для запуска точечной сборки используйте команду <bpt id="1">&lt;code&gt;</bpt>enb make specs desktop.specs/&lt;block-name&gt;<ept id="1">&lt;/code&gt;</ept> (например, <bpt id="2">&lt;code&gt;</bpt>enb make specs desktop.specs/input<ept id="2">&lt;/code&gt;</ept>).</seg></tuv>
+	<tuv xml:lang="en"><seg>To launch point-based assembly, use the command <bpt id="1">&lt;code&gt;</bpt>enb make specs desktop.specs/&lt;block-name&gt;<ept id="1">&lt;/code&gt;</ept> (for example, <bpt id="2">&lt;code&gt;</bpt>enb make specs desktop.specs/input<ept id="2">&lt;/code&gt;</ept>).</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Тесты запускаются автоматически на <bpt id="1">&lt;a href="https://travis-ci.org" [#$tu181]&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> для каждого pull request'а.</seg></tuv>
+	<tuv xml:lang="en"><seg>Tests will be run automatically on <bpt id="1">&lt;a href="https://travis-ci.org" [#$tu181]&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> for each pull request.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="regression-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="regression-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Регрессионное тестирование верстки</seg></tuv>
+	<tuv xml:lang="en"><seg>Regression tests for layout</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Для тестирования верстки используется <bpt id="1">&lt;a href="https://ru.bem.info/tools/testing/gemini/" [#$tu185]&gt;</bpt>Gemini<ept id="1">&lt;/a&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://ru.bem.info/tools/testing/gemini/" [#$tu185]&gt;</bpt>Gemini<ept id="1">&lt;/a&gt;</ept> is used for layout testing.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://code.google.com/p/selenium/wiki/Grid2</seg></tuv>
+	<tuv xml:lang="en"><seg>https://code.google.com/p/selenium/wiki/Grid2</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://saucelabs.com</seg></tuv>
+	<tuv xml:lang="en"><seg>https://saucelabs.com</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Тесты каждого блока находятся в отдельном файле вида <bpt id="1">&lt;code&gt;</bpt>block-name.gemini.js<ept id="1">&lt;/code&gt;</ept> в директории <bpt id="2">&lt;code&gt;</bpt>gemini/<ept id="2">&lt;/code&gt;</ept>. Локально тесты запускаются вручную. Тесты на Travis запускаются автоматически. В качестве <bpt id="3">&lt;a href="https://code.google.com/p/selenium/wiki/Grid2" [#$tu187]&gt;</bpt>Selenium Grid<ept id="3">&lt;/a&gt;</ept> используется сервис <bpt id="4">&lt;a href="https://saucelabs.com" [#$tu188]&gt;</bpt>SauceLabs<ept id="4">&lt;/a&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>Tests for each block are stored in a separate <bpt id="1">&lt;code&gt;</bpt>block-name.gemini.js<ept id="1">&lt;/code&gt;</ept> file in the <bpt id="2">&lt;code&gt;</bpt>gemini/<ept id="2">&lt;/code&gt;</ept> directory. Locally, test are executed manually. On Travis, tests are executed automatically. For <bpt id="3">&lt;a href="https://code.google.com/p/selenium/wiki/Grid2" [#$tu187]&gt;</bpt>Selenium Grid<ept id="3">&lt;/a&gt;</ept>, the <bpt id="4">&lt;a href="https://saucelabs.com" [#$tu188]&gt;</bpt>SauceLabs<ept id="4">&lt;/a&gt;</ept> service is used.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="run-test"&gt;</bpt><ept id="1">&lt;/a&gt;</ept><ph id="2">&lt;br /&gt;</ph>Для запуска тестов локально необходимо:</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="run-test"&gt;</bpt><ept id="1">&lt;/a&gt;</ept><ph id="2">&lt;br /&gt;</ph>For executing tests locally, you need to:</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://saucelabs.com/opensauce</seg></tuv>
+	<tuv xml:lang="en"><seg>https://saucelabs.com/opensauce</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Создайте учетную запись <bpt id="1">&lt;a href="https://saucelabs.com/opensauce" [#$tu191]&gt;</bpt>OpenSauce<ept id="1">&lt;/a&gt;</ept> в SauceLabs.</seg></tuv>
+	<tuv xml:lang="en"><seg>Create an <bpt id="1">&lt;a href="https://saucelabs.com/opensauce" [#$tu191]&gt;</bpt>OpenSauce<ept id="1">&lt;/a&gt;</ept> account in SauceLabs.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://saucelabs.com/connect</seg></tuv>
+	<tuv xml:lang="en"><seg>https://saucelabs.com/connect</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Установите утилиту <bpt id="1">&lt;a href="https://saucelabs.com/connect" [#$tu193]&gt;</bpt>Sauce Connect<ept id="1">&lt;/a&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>Install the <bpt id="1">&lt;a href="https://saucelabs.com/connect" [#$tu193]&gt;</bpt>Sauce Connect<ept id="1">&lt;/a&gt;</ept> utility.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Настройте окружение (переменные среды <bpt id="1">&lt;code&gt;</bpt>SAUCE_USERNAME<ept id="1">&lt;/code&gt;</ept> и <bpt id="2">&lt;code&gt;</bpt>SAUCE_ACCESS_KEY<ept id="2">&lt;/code&gt;</ept>).</seg></tuv>
+	<tuv xml:lang="en"><seg>Set up environment variables (<bpt id="1">&lt;code&gt;</bpt>SAUCE_USERNAME<ept id="1">&lt;/code&gt;</ept> and <bpt id="2">&lt;code&gt;</bpt>SAUCE_ACCESS_KEY<ept id="2">&lt;/code&gt;</ept>).</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Запустите утилиту <bpt id="1">&lt;code&gt;</bpt>sc<ept id="1">&lt;/code&gt;</ept> (SauceConnect) и дождаться установки туннеля.</seg></tuv>
+	<tuv xml:lang="en"><seg>Launch the <bpt id="1">&lt;code&gt;</bpt>src<ept id="1">&lt;/code&gt;</ept> utility (SauceConnect) and wait for the tunnel to be opened.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Запустите тесты командой <bpt id="1">&lt;code&gt;</bpt>npm run gemini<ept id="1">&lt;/code&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>Run the tests using <bpt id="1">&lt;code&gt;</bpt>npm run gemini<ept id="1">&lt;/code&gt;</ept>.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Соберите новые версии скриншотов при необходимости командой <bpt id="1">&lt;code&gt;</bpt>npm run gemini-gather<ept id="1">&lt;/code&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>If you need to make new versions of screenshots, use the command <bpt id="1">&lt;code&gt;</bpt>npm run gemini-gather<ept id="1">&lt;/code&gt;</ept>.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>При разработке новых тестов для ускорения локального запуска:</seg></tuv>
+	<tuv xml:lang="en"><seg>When developing new tests to speed up local execution:</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>http://docs.seleniumhq.org/download/</seg></tuv>
+	<tuv xml:lang="en"><seg>http://docs.seleniumhq.org/download/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>http://phantomjs.org/</seg></tuv>
+	<tuv xml:lang="en"><seg>http://phantomjs.org/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Установите и запустите <bpt id="1">&lt;a href="http://docs.seleniumhq.org/download/" [#$tu200]&gt;</bpt>Selenium Server<ept id="1">&lt;/a&gt;</ept> или <bpt id="2">&lt;a href="http://phantomjs.org/" [#$tu201]&gt;</bpt>PhantomJS<ept id="2">&lt;/a&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>Install and run <bpt id="1">&lt;a href="http://docs.seleniumhq.org/download/" [#$tu200]&gt;</bpt>Selenium Server<ept id="1">&lt;/a&gt;</ept> or <bpt id="2">&lt;a href="http://phantomjs.org/" [#$tu201]&gt;</bpt>PhantomJS<ept id="2">&lt;/a&gt;</ept>.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Исправьте в файле <bpt id="1">&lt;code&gt;</bpt>.gemini.yml<ept id="1">&lt;/code&gt;</ept> опцию <bpt id="2">&lt;code&gt;</bpt>gridUrl<ept id="2">&lt;/code&gt;</ept> на <bpt id="3">&lt;code&gt;</bpt>http://localhost:4444/<ept id="3">&lt;/code&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>In the <bpt id="1">&lt;code&gt;</bpt>.gemini.yml<ept id="1">&lt;/code&gt;</ept> file, change the <bpt id="2">&lt;code&gt;</bpt>gridUrl<ept id="2">&lt;/code&gt;</ept> option to <bpt id="3">&lt;code&gt;</bpt>http://localhost:4444/<ept id="3">&lt;/code&gt;</ept>.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="#run-test"&gt;</bpt>Запустите тесты<ept id="1">&lt;/a&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="#run-test"&gt;</bpt>Run the tests<ept id="1">&lt;/a&gt;</ept>.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://ru.bem.info/tools/testing/gemini/</seg></tuv>
+	<tuv xml:lang="en"><seg>https://ru.bem.info/tools/testing/gemini/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Подробно про использование <bpt id="1">&lt;code&gt;</bpt>Gemini<ept id="1">&lt;/code&gt;</ept> с разными бекендами читайте в статье <bpt id="2">&lt;a href="https://ru.bem.info/tools/testing/gemini/" [#$tu205]&gt;</bpt>Введение в работу с Gemini<ept id="2">&lt;/a&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>For more information about using <bpt id="1">&lt;code&gt;</bpt>Gemini<ept id="1">&lt;/code&gt;</ept> with various backends, read the article <bpt id="2">&lt;a href="https://ru.bem.info/tools/testing/gemini/" [#$tu205]&gt;</bpt>Gemini quick start<ept id="2">&lt;/a&gt;</ept>.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>NB<ept id="1">&lt;/strong&gt;</ept> В репозиторий необходимо сохранять скриншоты, собранные в SauceLabs. Это позволит избежать отличий в отрисовке шрифтов.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Note:<ept id="1">&lt;/strong&gt;</ept> You need to save screenshots from SauceLabs in the repository. This helps to avoid discrepancies when rendering fonts.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Перед коммитом новых или измененных эталонных изображений необходимо:</seg></tuv>
+	<tuv xml:lang="en"><seg>Before commiting new or modified reference images, you must:</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Проверить корректность изображения. Для определения разницы между старой и новой версиями, используйте утилиту Araxis Merge или аналогичную.</seg></tuv>
+	<tuv xml:lang="en"><seg>Make sure the images are correct. To find differences between the old and new versions, use the Araxis Merge utility or something similar.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>http://imageoptim.com/</seg></tuv>
+	<tuv xml:lang="en"><seg>http://imageoptim.com/</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Сжать изображения с помощью <bpt id="1">&lt;a href="http://imageoptim.com/" [#$tu210]&gt;</bpt>ImageOptim<ept id="1">&lt;/a&gt;</ept> (самый эффективный инструмент сжатия изображений на май 2014 года).</seg></tuv>
+	<tuv xml:lang="en"><seg>Use <bpt id="1">&lt;a href="http://imageoptim.com/" [#$tu210]&gt;</bpt>ImageOptim<ept id="1">&lt;/a&gt;</ept> to compress the images (this is the most effective tool for compressing images as of May, 2014).</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="template-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="template-tests"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Тесты на шаблоны</seg></tuv>
+	<tuv xml:lang="en"><seg>Tests for templates</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Инструменты сборки библиотеки позволяют собирать и запускать тесты на BEMHTML- и BH-шаблоны блоков.</seg></tuv>
+	<tuv xml:lang="en"><seg>Build tools for the library allow you to build and run tests on BEMHTML and BH block templates.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>Добавление теста для блока<ept id="1">&lt;/strong&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>Add a test for a block<ept id="1">&lt;/strong&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Создать каталог с названием <bpt id="1">&lt;code&gt;</bpt>[имя блока].tmpl-specs<ept id="1">&lt;/code&gt;</ept> в директории блока на требуемом уровне переопределения. В данном каталоге будут храниться файлы тестов.</seg></tuv>
+	<tuv xml:lang="en"><seg>Create a directory named <bpt id="1">&lt;code&gt;</bpt>[block name].tmpl-specs<ept id="1">&lt;/code&gt;</ept> in the block's directory at the necessary level. Test files will be stored in this directory.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Для каждого теста создать пару файлов: BEMJSON и HTML. В BEMJSON-файле находится пример для блока, в HTML-файле – эталонный HTML-код, который должен<ph id="1">&lt;br /&gt;</ph>получиться после применения шаблона блока к BEMJSON-у примера.<ph id="2">&lt;br /&gt;</ph>Имена файлов (не включая расширения) для одного<ph id="3">&lt;br /&gt;</ph>теста должны совпадать. Например, <bpt id="4">&lt;strong&gt;</bpt>10-default<ept id="4">&lt;/strong&gt;</ept>.bemjson.js и <bpt id="5">&lt;strong&gt;</bpt>10-default<ept id="5">&lt;/strong&gt;</ept>.html.</seg></tuv>
+	<tuv xml:lang="en"><seg>Create a pair of BEMJSON and HTML files for each test. The BEMJSON file contains an example for the block, and the HTML file contains the sample HTML code that should<ph id="1">&lt;br /&gt;</ph>result after applying the block template to the BEMJSON example.<ph id="2">&lt;br /&gt;</ph>File names must match (other than the extensions)<ph id="3">&lt;br /&gt;</ph>for the same test. For example, <bpt id="4">&lt;strong&gt;</bpt>10-default<ept id="4">&lt;/strong&gt;</ept>.bemjson.js and <bpt id="5">&lt;strong&gt;</bpt>10-default<ept id="5">&lt;/strong&gt;</ept>.html.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>К блоку могут быть написаны несколько тестов и, соответственно, каждый тест будет состоять из пары файлов BEMJSON + HTML с одинаковыми именами.</seg></tuv>
+	<tuv xml:lang="en"><seg>Multiple tests can be written for a block and, accordingly, each test consists of two files (BEMJSON and HTML) with the same name.</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>desktop.blocks
     └── myblocks
         ├── myblock.bemhtml.js
@@ -11385,21 +11611,61 @@ $ open http://localhost:8080/<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu
             ├── 20-advanced.bemjson.js
             └── 20-advanced.html<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Команда для сборки и запуска тестов:</seg></tuv>
-	<tuv xml:lang="en"><seg>To run tests for templates use:</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>To build and run tests, use:</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>magic run tmpl-specs<ept id="1">&lt;/code&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>magic run tmpl-specs<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Сборка тестов на нужном уровне переопределения:</seg></tuv>
-	<tuv xml:lang="en"><seg>To run tests for required definition level use:</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>To build tests on the required definition level, use:</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>magic make desktop.tmpl-specs<ept id="1">&lt;/code&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>magic make desktop.tmpl-specs<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Сборка тестов только для одного блока (точечная сборка):</seg></tuv>
-	<tuv xml:lang="en"><seg>To run tests for a specific block use:</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>To build tests only for a specific block, use:</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg><bpt id="1">&lt;code&gt;</bpt>magic make desktop.tmpl-specs/button<ept id="1">&lt;/code&gt;</ept></seg></tuv>
 	<tuv xml:lang="en"><seg><bpt id="1">&lt;code&gt;</bpt>magic make desktop.tmpl-specs/button<ept id="1">&lt;/code&gt;</ept></seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>В случае успешной сборки, тесты будут запущены с последующим выводом результатов. Если результат применения<ph id="1">&lt;br /&gt;</ph>шаблона не совпадает с эталонным HTML, то в логе будет ошибка с указанием отличий от эталона.</seg></tuv>
-	<tuv xml:lang="en"><seg>If build procedure is successful, tests will be run automatically. After that you will see all test results. If the result of applying<ph id="1">&lt;br /&gt;</ph>the template does not match with the block sample in HTML, then you will see errors in the log with description of the difference from the block sample.</seg></tuv></tu><tu>
-	<tuv xml:lang="ru"><seg>Все тесты автоматически запускаются на <bpt id="1">&lt;a href="https://travis-ci.org" data-url="https://travis-ci.org"&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> для каждого pull request'a.</seg></tuv>
-	<tuv xml:lang="en"><seg>All tests will be run automatically using <bpt id="1">&lt;a href="https://travis-ci.org" data-url="https://travis-ci.org"&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> on each pull request.</seg></tuv></tu><tu>
+	<tuv xml:lang="en"><seg>If the build procedure is successful, tests are run automatically, and you will see all test results. If the result of applying<ph id="1">&lt;br /&gt;</ph>the template does not match with the block sample in HTML, you will see an error in the log indicating how it differs from the block sample.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://travis-ci.org</seg></tuv>
+	<tuv xml:lang="en"><seg>https://travis-ci.org</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Все тесты автоматически запускаются на <bpt id="1">&lt;a href="https://travis-ci.org" [#$tu227]&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> для каждого pull request'a.</seg></tuv>
+	<tuv xml:lang="en"><seg>All tests are run automatically using <bpt id="1">&lt;a href="https://travis-ci.org" [#$tu227]&gt;</bpt>Travis<ept id="1">&lt;/a&gt;</ept> on each pull request.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="maintain"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="maintain"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Команда основной разработки</seg></tuv>
+	<tuv xml:lang="en"><seg>Maintainers</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://github.com/veged</seg></tuv>
+	<tuv xml:lang="en"><seg>https://github.com/veged</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/veged" [#$tu231]&gt;</bpt>veged<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://github.com/veged" [#$tu231]&gt;</bpt>veged<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://github.com/dfilatov</seg></tuv>
+	<tuv xml:lang="en"><seg>https://github.com/dfilatov</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/dfilatov" [#$tu233]&gt;</bpt>dfilatov<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://github.com/dfilatov" [#$tu233]&gt;</bpt>dfilatov<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://github.com/mishanga</seg></tuv>
+	<tuv xml:lang="en"><seg>https://github.com/mishanga</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/mishanga" [#$tu235]&gt;</bpt>mishanga<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://github.com/mishanga" [#$tu235]&gt;</bpt>mishanga<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://github.com/narqo</seg></tuv>
+	<tuv xml:lang="en"><seg>https://github.com/narqo</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a href="https://github.com/narqo" [#$tu237]&gt;</bpt>narqo<ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a href="https://github.com/narqo" [#$tu237]&gt;</bpt>narqo<ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;a preserve="1" name="workflow"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;a preserve="1" name="workflow"&gt;</bpt><ept id="1">&lt;/a&gt;</ept></seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Рабочий процесс</seg></tuv>
+	<tuv xml:lang="en"><seg>Workflow</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>https://waffle.io/bem/bem-components</seg></tuv>
+	<tuv xml:lang="en"><seg>https://waffle.io/bem/bem-components</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Список текущих задач отображается на специальном <bpt id="1">&lt;a href="https://waffle.io/bem/bem-components" [#$tu241]&gt;</bpt>Agile Board<ept id="1">&lt;/a&gt;</ept>.</seg></tuv>
+	<tuv xml:lang="en"><seg>Current tasks are listed on a special <bpt id="1">&lt;a href="https://waffle.io/bem/bem-components" [#$tu241]&gt;</bpt>Agile Board<ept id="1">&lt;/a&gt;</ept>.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg>Статусы задач:</seg></tuv>
+	<tuv xml:lang="en"><seg>Task statuses:</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>backlog<ept id="1">&lt;/strong&gt;</ept> — неразобранные задачи, которые требуют обсуждения командой для оценки и принятия решения о реализации. В таком статусе также могут находиться задачи, по которым нужна дополнительная информация.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>backlog<ept id="1">&lt;/strong&gt;</ept> — Unsorted tasks that need to be discussed by the team to evaluate them and decide how to implement them. This status also applies to tasks that need additional information.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>ready<ept id="1">&lt;/strong&gt;</ept> — разобранные задачи, решение о реализации которых принято.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>ready<ept id="1">&lt;/strong&gt;</ept> — Tasks that have been investigated and a decision has been made on how to implement them.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>in progress<ept id="1">&lt;/strong&gt;</ept> — задачи с конкретным исполнителем, которые находятся в работе.</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>in progress<ept id="1">&lt;/strong&gt;</ept> — Tasks that have a specific assignee and are currently in progress.</seg></tuv></tu><tu>
+	<tuv xml:lang="ru"><seg><bpt id="1">&lt;strong&gt;</bpt>done<ept id="1">&lt;/strong&gt;</ept> — задачи, закрытые за последние семь дней (это временное техническое ограничение выбранного Agile Board).</seg></tuv>
+	<tuv xml:lang="en"><seg><bpt id="1">&lt;strong&gt;</bpt>done<ept id="1">&lt;/strong&gt;</ept> — Tasks that have been closed over the last seven days (this is a temporary technical limitation of our Agile Board).</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>Лицензия</seg></tuv>
 	<tuv xml:lang="en"><seg>License</seg></tuv></tu><tu>
 	<tuv xml:lang="ru"><seg>© 2012 YANDEX LLC. Код лицензирован <bpt id="1">&lt;a href="LICENSE.txt"&gt;</bpt>Mozilla Public License 2.0<ept id="1">&lt;/a&gt;</ept>.</seg></tuv>
